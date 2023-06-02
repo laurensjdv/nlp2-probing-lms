@@ -1,0 +1,2997 @@
+# newdoc id = w02009
+# sent_id = w02009002
+# text = Il rigore e la presenza della rivoluzione nelle campagne allarmò la corte e l'Assemblea Nazionale di Versailles.
+# text_en = The severity and the presence of the revolution in the countryside alarmed the Court and National Assembly in Versailles.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	rigore	rigore	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	presenza	presenza	NOUN	NN	Gender=Fem|Number=Sing	2	conj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	IN	_	8	case	_	_
+7	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	rivoluzione	rivoluzione	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	IN	_	11	case	_	_
+10	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	campagne	campagna	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
+12	allarmò	allarmare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+13	la	il	DET	DT	Gender=Fem|Number=Sing	14	det	_	_
+14	corte	corte	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	l'	il	DET	DT	Gender=Fem|Number=Sing	17	det	_	SpaceAfter=No
+17	Assemblea	Assemblea	PROPN	NN	Gender=Fem|Number=Sing	14	conj	_	_
+18	Nazionale	Nazionale	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	Proper=True
+19	di	di	ADP	IN	_	20	case	_	_
+20	Versailles	Versailles	PROPN	NNP	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	12	punct	_	_
+
+# sent_id = w02009025
+# text = A Parigi si venne a sapere dell'evento e questo causò ancora più malcontento tra la popolazione, già provata dal caro prezzo del pane e dalla mancanza di rifornimenti.
+# text_en = The event was known about in Paris and caused more upset in a mood which was already charged by the persistently high price of bread and lack of provisions.
+1	A	a	ADP	IN	_	2	case	_	_
+2	Parigi	Parigi	PROPN	NNP	Gender=Fem|Number=Sing	4	obl	_	_
+3	si	si	PRON	SE	Number=Sing|Person=3	4	expl	_	_
+4	venne	venire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	a	a	ADP	IN	_	6	mark	_	_
+6	sapere	sapere	VERB	VB	Voice=Act	4	xcomp	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	IN	_	9	case	_	_
+8	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	evento	evento	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	questo	questo	PRON	PRP	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	causò	causare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
+13	ancora	ancora	ADV	RB	_	14	advmod	_	_
+14	più	più	ADV	RB	Gender=Masc|Number=Sing	15	advmod	_	_
+15	malcontento	malcontento	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
+16	tra	tra	ADP	IN	_	18	case	_	_
+17	la	il	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
+18	popolazione	popolazione	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	21	punct	_	_
+20	già	già	ADV	RB	_	21	advmod	_	_
+21	provata	provare	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
+22-23	dal	_	_	_	_	_	_	_	_
+22	da	da	ADP	IN	_	25	case	_	_
+23	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	caro	caro	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
+25	prezzo	prezzo	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	_
+26-27	del	_	_	_	_	_	_	_	_
+26	di	di	ADP	IN	_	28	case	_	_
+27	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	pane	pane	NOUN	NN	Gender=Masc|Number=Sing	25	nmod	_	_
+29	e	e	CCONJ	CC	_	32	cc	_	_
+30-31	dalla	_	_	_	_	_	_	_	_
+30	da	da	ADP	IN	_	32	case	_	_
+31	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	mancanza	mancanza	NOUN	NN	Gender=Fem|Number=Sing	25	conj	_	_
+33	di	di	ADP	IN	_	34	case	_	_
+34	rifornimenti	rifornimento	NOUN	NN	Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02009087
+# text = Il re non prese precauzioni speciali durante la sua fuga e venne riconosciuto diverse volte durante le sue soste.
+# text_en = The king did not take special precautions during his escape and was recognized multiple times during his stays.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	re	re	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	non	non	ADV	RB	Polarity=Neg	4	advmod	_	_
+4	prese	prendere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	precauzioni	precauzione	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+6	speciali	speciale	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
+7	durante	durante	ADP	IN	_	10	case	_	_
+8	la	il	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+9	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	10	det:poss	_	_
+10	fuga	fuga	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	13	aux:pass	_	_
+13	riconosciuto	riconoscere	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	4	conj	_	_
+14	diverse	diverso	DET	DT	Gender=Fem|Number=Plur	15	amod	_	_
+15	volte	volta	NOUN	NN	Gender=Fem|Number=Plur	13	obl	_	_
+16	durante	durante	ADP	IN	_	19	case	_	_
+17	le	il	DET	DT	Gender=Fem|Number=Plur	19	det	_	_
+18	sue	suo	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	19	det:poss	_	_
+19	soste	sosta	NOUN	NN	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w02011
+# sent_id = w02011012
+# text = L'inno venne accolto positivamente e il pubblico chiese il bis.
+# text_en = The hymn was well received and the audience demanded an encore.
+1	L'	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	SpaceAfter=No
+2	inno	inno	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	accolto	accogliere	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+5	positivamente	positivo	ADV	RB	_	4	advmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	il	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+8	pubblico	pubblico	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	chiese	chiedere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
+10	il	il	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+11	bis	bis	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02011029
+# text = Dichiaro chiusi i primi Giochi olimpici internazionali.
+# text_en = I declare the first international Olympic games over.
+1	Dichiaro	dichiarare	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+2	chiusi	chiudere	ADJ	JJ	Gender=Masc|Number=Plur	1	xcomp	_	_
+3	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+5	Giochi	Giochi	PROPN	NN	Gender=Masc|Number=Plur	1	obj	_	_
+6	olimpici	olimpico	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	Proper=True
+7	internazionali	internazionale	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	Proper=True|SpaceAfter=No
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+# newdoc id = w02012
+# sent_id = w02012042
+# text = La Prima Guerra Mondiale portò cambiamenti e nuovi sviluppi nelle politiche coloniali.
+# text_en = The First World War brought about shifts and new developments in colonial politics.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	Prima	Prima	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
+3	Guerra	Guerra	PROPN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	Mondiale	Mondiale	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
+5	portò	portare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6	cambiamenti	cambiamento	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	nuovi	nuovo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
+9	sviluppi	sviluppo	NOUN	NN	Gender=Masc|Number=Plur	6	conj	_	_
+10-11	nelle	_	_	_	_	_	_	_	_
+10	in	in	ADP	IN	_	12	case	_	_
+11	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	politiche	politica|politico	NOUN	NN	Gender=Fem|Number=Plur	5	obl	_	_
+13	coloniali	coloniale	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	5	punct	_	_
+
+# newdoc id = w02013
+# sent_id = w02013015
+# text = La Rivoluzione Industriale ebbe luogo in Gran Bretagna prima che in ogni altro paese.
+# text_en = The Industrial Revolution took place in Great Britain earlier than in any other country.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	Rivoluzione	Rivoluzione	PROPN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	Industriale	Industriale	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
+4	ebbe	avere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	luogo	luogo	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	Gran	Gran	PROPN	NNP	Gender=Fem|Number=Sing	4	obl	_	_
+8	Bretagna	Bretagna	PROPN	NNP	Gender=Fem|Number=Sing	7	flat	_	_
+9	prima	prima	ADV	RB	_	14	advmod	_	_
+10	che	che	SCONJ	IN	_	9	fixed	_	_
+11	in	in	ADP	IN	_	14	case	_	_
+12	ogni	ogni	DET	DT	Gender=Masc|Number=Sing	14	det	_	_
+13	altro	altro	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
+14	paese	paese	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02013033
+# text = La crisi di Suez mostrò i limiti delle vecchie potenze coloniali come Francia e Gran Bretagna in un mondo in continuo cambiamento.
+# text_en = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	crisi	crisi	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	Suez	Suez	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	_
+5	mostrò	mostrare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6	i	il	DET	DT	Gender=Masc|Number=Plur	7	det	_	_
+7	limiti	limite	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
+8-9	delle	_	_	_	_	_	_	_	_
+8	di	di	ADP	IN	_	11	case	_	_
+9	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	vecchie	vecchio	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
+11	potenze	potenza	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
+12	coloniali	coloniale	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
+13	come	come	ADP	IN	_	14	case	_	_
+14	Francia	Francia	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	Gran	Gran	PROPN	NNP	Gender=Fem|Number=Sing	14	conj	_	_
+17	Bretagna	Bretagna	PROPN	NNP	Gender=Fem|Number=Sing	16	flat	_	_
+18	in	in	ADP	IN	_	20	case	_	_
+19	un	uno	DET	DT	Gender=Masc|Number=Sing	20	det	_	_
+20	mondo	mondo	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
+21	in	in	ADP	IN	_	23	case	_	_
+22	continuo	continuo	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	_
+23	cambiamento	cambiamento	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w02013076
+# text = Dopo la conquista del potere da parte dei nazionalsocialisti nel 1933 ci furono tentativi sparsi di riconquistare le vecchie colonie.
+# text_en = After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the old colonies.
+1	Dopo	dopo	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	conquista	conquista	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	6	case	_	_
+5	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	potere	potere	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
+7	da	da	ADP	IN	_	8	case	_	_
+8	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	IN	_	11	case	_	_
+10	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	nazionalsocialisti	nazionalsocialista	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	_
+12-13	nel	_	_	_	_	_	_	_	_
+12	in	in	ADP	IN	_	14	case	_	_
+13	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	1933	1933	NUM	CD	_	16	obl	_	_
+15	ci	ci	PRON	EX	_	16	expl	_	_
+16	furono	essere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+17	tentativi	tentativo	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
+18	sparsi	sparso	ADJ	JJ	Gender=Masc|Number=Plur	17	amod	_	_
+19	di	di	ADP	IN	_	20	mark	_	_
+20	riconquistare	riconquistare	VERB	VB	Voice=Act	17	acl	_	_
+21	le	il	DET	DT	Gender=Fem|Number=Plur	23	det	_	_
+22	vecchie	vecchio	ADJ	JJ	Gender=Fem|Number=Plur	23	amod	_	_
+23	colonie	colonia	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	16	punct	_	_
+
+# sent_id = w02013093
+# text = Dopo la Rivoluzione russa del 1917 alcune nazioni come la Finlandia, la Polonia e gli Stati Baltici guadagnarono la propria indipendenza.
+# text_en = After the Russian Revolution in 1917, some countries, such as Finland, Poland and the Baltic States, won their independence.
+1	Dopo	dopo	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	Rivoluzione	Rivoluzione	PROPN	NN	Gender=Fem|Number=Sing	20	obl	_	_
+4	russa	russo	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	IN	_	7	case	_	_
+6	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	1917	1917	NUM	CD	_	3	nmod	_	_
+8	alcune	alcuno	DET	DT	Gender=Fem|Number=Plur	9	det	_	_
+9	nazioni	nazione	NOUN	NN	Gender=Fem|Number=Plur	20	nsubj	_	_
+10	come	come	ADP	IN	_	12	case	_	_
+11	la	il	DET	DT	Gender=Fem|Number=Sing	12	det	_	_
+12	Finlandia	Finlandia	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	la	il	DET	DT	Gender=Fem|Number=Sing	15	det	_	_
+15	Polonia	Polonia	PROPN	NNP	Gender=Fem|Number=Sing	12	conj	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	gli	il	DET	DT	Gender=Masc|Number=Plur	18	det	_	_
+18	Stati	Stati	NOUN	NN	Gender=Masc|Number=Plur	12	conj	_	_
+19	Baltici	Baltici	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	Proper=True
+20	guadagnarono	guadagnare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+21	la	il	DET	DT	Gender=Fem|Number=Sing	23	det	_	_
+22	propria	proprio	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	23	det:poss	_	_
+23	indipendenza	indipendenza	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	20	punct	_	_
+
+# newdoc id = w02014
+# sent_id = w02014013
+# text = Uno degli ultimi mezzi da lui usati per mettere pressione all'Ungheria fu la minaccia di imporre elezioni generali e gratuite.
+# text_en = One of his last means of placing pressure on Hungary was the threat of imposing general and free elections.
+1	Uno	uno	NUM	CD	Gender=Masc	17	nsubj	_	_
+2-3	degli	_	_	_	_	_	_	_	_
+2	di	di	ADP	IN	_	5	case	_	_
+3	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	ultimi	ultimo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+5	mezzi	mezzo	NOUN	NN	Gender=Masc|Number=Plur	1	nmod	_	_
+6	da	da	ADP	IN	_	7	case	_	_
+7	lui	lui	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
+8	usati	usare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|Voice=Pass	5	acl	_	_
+9	per	per	ADP	IN	_	10	mark	_	_
+10	mettere	mettere	VERB	VB	Voice=Act	8	xcomp	_	_
+11	pressione	pressione	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
+12-13	all'	_	_	_	_	_	_	_	SpaceAfter=No
+12	a	a	ADP	IN	_	14	case	_	_
+13	l'	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Ungheria	Ungheria	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	_
+15	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	17	cop	_	_
+16	la	il	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+17	minaccia	minaccia	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+18	di	di	ADP	IN	_	19	mark	_	_
+19	imporre	imporre	VERB	VB	Voice=Act	17	acl	_	_
+20	elezioni	elezione	NOUN	NN	Gender=Fem|Number=Plur	19	obj	_	_
+21	generali	generale	ADJ	JJ	Gender=Fem|Number=Plur	20	amod	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	gratuite	gratuito	ADJ	JJ	Gender=Fem|Number=Plur	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	17	punct	_	_
+
+# sent_id = w02014030
+# text = Dopo il compromesso, l'imperatore e re Francesco Giuseppe I si preoccupò di trattare entrambe le sue monarchie allo stesso modo.
+# text_en = After the Compromise, Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally.
+1	Dopo	dopo	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+3	compromesso	compromesso	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	l'	il	DET	DT	Gender=Masc|Number=Sing	6	det	_	SpaceAfter=No
+6	imperatore	imperatore	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	re	re	NOUN	NN	Gender=Masc|Number=Sing	6	conj	_	_
+9	Francesco	Francesco	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	_
+10	Giuseppe	Giuseppe	PROPN	NNP	Gender=Masc|Number=Sing	9	flat	_	_
+11	I	I	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
+12	si	si	PRON	SE	Number=Sing|Person=3	13	expl	_	_
+13	preoccupò	preoccupare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+14	di	di	ADP	IN	_	15	mark	_	_
+15	trattare	trattare	VERB	VB	Voice=Act	13	xcomp	_	_
+16	entrambe	entrambi	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	_
+17	le	il	DET	DT	Gender=Fem|Number=Plur	19	det	_	_
+18	sue	suo	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	19	det:poss	_	_
+19	monarchie	monarchia	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
+20-21	allo	_	_	_	_	_	_	_	_
+20	a	a	ADP	IN	_	23	case	_	_
+21	lo	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	stesso	stesso	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	_
+23	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	13	punct	_	_
+
+# newdoc id = w02015
+# sent_id = w02015084
+# text = L'abbazia di Disibodenberg venne sciolta e cadde in rovina come risultato della Riforma.
+# text_en = The Disibodenberg cloister was disbanded and fell into ruin as a result of the Reformation.
+1	L'	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	SpaceAfter=No
+2	abbazia	abbazia	PROPN	NN	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+3	di	di	ADP	IN	_	4	case	_	Proper=True
+4	Disibodenberg	Disibodenberg	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	_
+5	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	aux:pass	_	_
+6	sciolta	sciolto	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	cadde	cadere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	conj	_	_
+9	in	in	ADP	IN	_	10	case	_	_
+10	rovina	rovina	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
+11	come	come	ADP	IN	_	12	case	_	_
+12	risultato	risultato	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	IN	_	15	case	_	_
+14	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Riforma	Riforma	PROPN	NN	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w02015085
+# text = Oggi in quel luogo si possono ammirare vaste rovine.
+# text_en = Today, expansive ruins can be viewed there.
+1	Oggi	oggi	ADV	RB	_	7	advmod	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	quel	quello	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+4	luogo	luogo	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
+5	si	si	PRON	SE	Number=Plur|Person=3	7	expl	_	_
+6	possono	potere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	7	aux	_	_
+7	ammirare	ammirare	VERB	VB	Voice=Act	0	root	_	_
+8	vaste	vasto	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
+9	rovine	rovina	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj:pass	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w02015086
+# text = Il monastero di Rupertsberg venne distrutto nel 1632 durante la Guerra dei Trent'anni dalle truppe svedesi.
+# text_en = The Rupertsberg cloister was destroyed during the Thirty Years' War in 1632 by Swedish troops.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	monastero	monastero	PROPN	NN	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+3	di	di	ADP	IN	_	4	case	_	Proper=True
+4	Rupertsberg	Rupertsberg	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
+5	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	aux:pass	_	_
+6	distrutto	distruggere	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	IN	_	9	case	_	_
+8	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	1632	1632	NUM	CD	_	6	obl	_	_
+10	durante	durante	ADP	IN	_	12	case	_	_
+11	la	il	DET	DT	Gender=Fem|Number=Sing	12	det	_	_
+12	Guerra	Guerra	PROPN	NN	Gender=Fem|Number=Sing	6	obl	_	_
+13-14	dei	_	_	_	_	_	_	_	Proper=True
+13	di	di	ADP	IN	_	16	case	_	_
+14	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	Trent'	Trent'	NUM	CD	_	16	nummod	_	Proper=True|SpaceAfter=No
+16	anni	anno	PROPN	NN	Gender=Masc|Number=Plur	12	nmod	_	_
+17-18	dalle	_	_	_	_	_	_	_	_
+17	da	da	ADP	IN	_	19	case	_	_
+18	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	truppe	truppa	NOUN	NN	Gender=Fem|Number=Plur	6	obl	_	_
+20	svedesi	svedese	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	Proper=True|SpaceAfter=No
+21	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w02015087
+# text = Le suore vennero spostate al monastero di Eibingen.
+# text_en = The displaced nuns were moved to the Eibingen cloister.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	suore	suora	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+3	vennero	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	spostate	spostare	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past	0	root	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	IN	_	7	case	_	_
+6	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	monastero	monastero	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
+8	di	di	ADP	IN	_	9	case	_	_
+9	Eibingen	Eibingen	PROPN	NNP	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w02015088
+# text = Successivamente, si ricostruì sulle rovine.
+# text_en = The ruins were later built over.
+1	Successivamente	successivamente	ADV	RB	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	si	si	PRON	SE	Number=Sing|Person=3	4	expl	_	_
+4	ricostruì	ricostruire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5-6	sulle	_	_	_	_	_	_	_	_
+5	su	su	ADP	IN	_	7	case	_	_
+6	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	rovine	rovina	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w02016
+# sent_id = w02016015
+# text = Dopo questi successi, firmò un contratto con il Team Telekom e si trasferì con la sua ragazza a Merdingen, nel Südbaden, dove visse fino al 2002.
+# text_en = After these successes, he signed a contract with Team Telekom and moved in with his girlfriend in Merdingen in Südbaden, where he lived until 2002.
+1	Dopo	dopo	ADP	IN	_	3	case	_	_
+2	questi	questo	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
+3	successi	successo	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	firmò	firmare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6	un	uno	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+7	contratto	contratto	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
+8	con	con	ADP	IN	_	10	case	_	_
+9	il	il	DET	DT	Gender=Masc|Number=Sing	10	det	_	_
+10	Team	Team	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
+11	Telekom	Telekom	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	si	si	PRON	SE	Number=Sing|Person=3	14	expl	_	_
+14	trasferì	trasferire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	_
+15	con	con	ADP	IN	_	18	case	_	_
+16	la	il	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
+17	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	18	det:poss	_	_
+18	ragazza	ragazzo	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
+19	a	a	ADP	IN	_	20	case	_	_
+20	Merdingen	Merdingen	PROPN	NNP	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	24	punct	_	_
+22-23	nel	_	_	_	_	_	_	_	_
+22	in	in	ADP	IN	_	24	case	_	_
+23	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	Südbaden	Südbaden	PROPN	NNP	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	24	punct	_	_
+26	dove	dove	ADV	RB	_	27	advmod	_	_
+27	visse	vivere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	20	acl:relcl	_	_
+28	fino	fino	ADP	IN	_	30	case	_	_
+29	al	a	ADP	INDT	Gender=Masc|Number=Sing	28	fixed	_	_
+30	2002	2002	NUM	CD	_	27	obl	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w02016060
+# text = Nei Giochi olimpici di Atene 2004, Ulrich, vincendo la gara su strada, raggiunse l'obiettivo di vincere la sua seconda medaglia d'oro.
+# text_en = At the Olympic Games in 2004 in Athens, Ulrich, as winner of the street race, pursued the goal of winning his second gold medal.
+1-2	Nei	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Giochi	Giochi	PROPN	NN	Gender=Masc|Number=Plur	17	obl	_	_
+4	olimpici	olimpico	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
+5	di	di	ADP	IN	_	6	case	_	_
+6	Atene	Atene	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	_
+7	2004	2004	NUM	CD	_	3	obl:tmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	Ulrich	Ulrich	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	vincendo	vincere	VERB	VBG	Voice=Act	17	advcl	_	_
+12	la	il	DET	DT	Gender=Fem|Number=Sing	13	det	_	_
+13	gara	gara	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
+14	su	su	ADP	IN	_	15	case	_	_
+15	strada	strada	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	11	punct	_	_
+17	raggiunse	raggiungere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+18	l'	il	DET	DT	Gender=Masc|Number=Sing	19	det	_	SpaceAfter=No
+19	obiettivo	obiettivo	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
+20	di	di	ADP	IN	_	21	mark	_	_
+21	vincere	vincere	VERB	VB	Voice=Act	19	acl	_	_
+22	la	il	DET	DT	Gender=Fem|Number=Sing	25	det	_	_
+23	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	25	det:poss	_	_
+24	seconda	secondo	ADJ	JJ	Gender=Fem|Number=Sing	25	amod	_	_
+25	medaglia	medaglia	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
+26	d'	di	ADP	IN	_	27	case	_	SpaceAfter=No
+27	oro	oro	NOUN	NN	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	.	_	17	punct	_	_
+
+# newdoc id = w02017
+# sent_id = w02017046
+# text = La censura eliminò tutte le opinioni indesiderate, la partecipazione alla vita pubblica era diventata praticamente impossibile.
+# text_en = The censorship disposed of all undesirable opinions; participation in public life had become practically impossible.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	censura	censura	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	eliminò	eliminare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	tutte	tutto	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
+5	le	il	DET	DT	Gender=Fem|Number=Plur	6	det	_	_
+6	opinioni	opinione	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
+7	indesiderate	indesiderato	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	la	il	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+10	partecipazione	partecipazione	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	IN	_	13	case	_	_
+12	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	vita	vita	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
+14	pubblica	pubblico	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+15	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	16	aux	_	_
+16	diventata	diventare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	3	parataxis	_	_
+17	praticamente	pratico	ADV	RB	_	18	advmod	_	_
+18	impossibile	impossibile	ADJ	JJ	Gender=Fem|Number=Sing	16	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02017061
+# text = Le tracce di sangue sui vestiti avevano la forma descritta nei notiziari del giorno dell'omicidio.
+# text_en = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	tracce	traccia	NOUN	NN	Gender=Fem|Number=Plur	8	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	sangue	sangue	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
+5-6	sui	_	_	_	_	_	_	_	_
+5	su	su	ADP	IN	_	7	case	_	_
+6	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	vestiti	vestito	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
+8	avevano	avere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+9	la	il	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+10	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
+11	descritta	descrivere	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	10	acl	_	_
+12-13	nei	_	_	_	_	_	_	_	_
+12	in	in	ADP	IN	_	14	case	_	_
+13	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	notiziari	notiziario	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	IN	_	17	case	_	_
+16	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	giorno	giorno	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+18	di	di	ADP	IN	_	20	case	_	_
+19	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	omicidio	omicidio	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	8	punct	_	_
+
+# newdoc id = w02018
+# sent_id = w02018030
+# text = Weiss venne onorato con premi per la letteratura dalle città di Colonia e Brema.
+# text_en = Weiss was honored with the literature prizes from the cities of Cologne and Bremen.
+1	Weiss	Weiss	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
+3	onorato	onorare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+4	con	con	ADP	IN	_	5	case	_	_
+5	premi	premio	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
+6	per	per	ADP	IN	_	8	case	_	_
+7	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+8	letteratura	letteratura	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
+9-10	dalle	_	_	_	_	_	_	_	_
+9	da	da	ADP	IN	_	11	case	_	_
+10	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	città	città	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+12	di	di	ADP	IN	_	13	case	_	_
+13	Colonia	Colonia	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	Brema	Brema	PROPN	NNP	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w02019
+# sent_id = w02019048
+# text = Springer si dedicò vigorosamente, sia a livello pubblico che privato, alla riconciliazione con il popolo ebraico e visitò varie volte Israele.
+# text_en = Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.
+1	Springer	Springer	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	si	si	PRON	SE	Number=Sing|Person=3	3	expl	_	_
+3	dedicò	dedicare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	vigorosamente	vigoroso	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	sia	sia	CCONJ	CC	_	8	cc	_	_
+7	a	a	ADP	IN	_	8	case	_	_
+8	livello	livello	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
+9	pubblico	pubblico	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
+10	che	che	CCONJ	CC	_	11	cc	_	_
+11	privato	privato	ADJ	JJ	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	8	punct	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	IN	_	15	case	_	_
+14	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	riconciliazione	riconciliazione	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
+16	con	con	ADP	IN	_	18	case	_	_
+17	il	il	DET	DT	Gender=Masc|Number=Sing	18	det	_	_
+18	popolo	popolo	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
+19	ebraico	ebraico	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	Proper=True
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	visitò	visitare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	_
+22	varie	vario	DET	DT	Gender=Fem|Number=Plur	23	det	_	_
+23	volte	volta	NOUN	NN	Gender=Fem|Number=Plur	21	obl	_	_
+24	Israele	Israele	PROPN	NNP	Gender=Masc|Number=Sing	21	obj	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02019077
+# text = Lo chalet bruciò completamente.
+# text_en = The chalet burned completely down.
+1	Lo	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	chalet	chalet	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	bruciò	bruciare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	completamente	completo	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w02019085
+# text = Nell'anno successivo, il 1977, ricevette il riconoscimento della American Friendship Medal per la posizione amichevole della sua stampa nei confronti degli Stati Uniti.
+# text_en = In the following year, 1977, he received the distinction of the American Friendship Medal for the friendly position of his press toward the USA.
+1-2	Nell'	_	_	_	_	_	_	_	SpaceAfter=No
+1	In	in	ADP	IN	_	3	case	_	_
+2	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	anno	anno	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+4	successivo	successivo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	3	punct	_	_
+6	il	il	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+7	1977	1977	NUM	CD	_	3	appos	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	ricevette	ricevere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+10	il	il	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+11	riconoscimento	riconoscimento	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	IN	_	14	case	_	_
+13	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	American	American	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	_
+15	Friendship	Friendship	PROPN	NNP	Gender=Fem|Number=Sing	14	flat	_	_
+16	Medal	Medal	PROPN	NNP	Gender=Fem|Number=Sing	14	flat	_	_
+17	per	per	ADP	IN	_	19	case	_	_
+18	la	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+19	posizione	posizione	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
+20	amichevole	amichevole	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+21-22	della	_	_	_	_	_	_	_	_
+21	di	di	ADP	IN	_	24	case	_	_
+22	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	24	det:poss	_	_
+24	stampa	stampa	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
+25-26	nei	_	_	_	_	_	_	_	_
+25	in	in	ADP	IN	_	27	case	_	_
+26	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	confronti	confronto	NOUN	NN	Gender=Masc|Number=Plur	19	nmod	_	_
+28-29	degli	_	_	_	_	_	_	_	_
+28	di	di	ADP	IN	_	30	case	_	_
+29	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	Stati	Stati	PROPN	NNP	Gender=Masc|Number=Plur	27	nmod	_	_
+31	Uniti	Uniti	PROPN	NNP	Gender=Masc|Number=Plur	30	flat	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	9	punct	_	_
+
+# newdoc id = w03001
+# sent_id = w03001037
+# text = I distretti di Viguier e di La Conte contengono la maggior parte dei servizi di edilizia sociale della città dove la popolazione è costituita principalmente da immigranti o da discendenti di immigranti.
+# text_en = The Viguier and La Conte districts contain the majority of the city's social housing, where the population is mainly made up of immigrants or those of immigrant origin.
+1	I	il	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
+2	distretti	distretto	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	Viguier	Viguier	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	di	di	ADP	IN	_	7	case	_	_
+7	La	La	DET	DT	Gender=Masc|Number=Sing	4	conj	_	Proper=True
+8	Conte	Conte	PROPN	NN	Gender=Masc|Number=Sing	7	flat	_	_
+9	contengono	contenere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+10	la	il	DET	DT	Gender=Fem|Number=Sing	12	det	_	_
+11	maggior	maggiore	ADJ	JJS	Degree=Sup|Gender=Fem|Number=Sing	12	amod	_	_
+12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	IN	_	15	case	_	_
+14	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	servizi	servizio	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	_
+16	di	di	ADP	IN	_	17	case	_	_
+17	edilizia	edilizia	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
+18	sociale	sociale	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	IN	_	21	case	_	_
+20	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	città	città	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
+22	dove	dove	ADV	RB	_	26	advmod	_	_
+23	la	il	DET	DT	Gender=Fem|Number=Sing	24	det	_	_
+24	popolazione	popolazione	NOUN	NN	Gender=Fem|Number=Sing	26	nsubj	_	_
+25	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	26	cop	_	_
+26	costituita	costituire	ADJ	JJ	Gender=Fem|Number=Sing	21	acl:relcl	_	_
+27	principalmente	principalmente	ADV	RB	_	29	advmod	_	_
+28	da	da	ADP	IN	_	29	case	_	_
+29	immigranti	immigrante	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	_
+30	o	o	CCONJ	CC	_	32	cc	_	_
+31	da	da	ADP	IN	_	32	case	_	_
+32	discendenti	discendente	NOUN	NN	Gender=Masc|Number=Plur	29	conj	_	_
+33	di	di	ADP	IN	_	34	case	_	_
+34	immigranti	immigrante	NOUN	NN	Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = w03001058
+# text = La storia di Carcassonne è direttamente collegata a quella della sua città fortificata.
+# text_en = The history of Carcassonne is directly linked to that of its fortified city.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	storia	storia	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	Carcassonne	Carcassonne	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	_
+5	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	_
+6	direttamente	diretto	ADV	RB	_	7	advmod	_	_
+7	collegata	collegare	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
+8	a	a	ADP	IN	_	9	case	_	_
+9	quella	quello	PRON	PRP	Gender=Fem|Number=Sing|PronType=Dem	7	obl	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	IN	_	13	case	_	_
+11	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	13	det:poss	_	_
+13	città	città	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
+14	fortificata	fortificato	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	7	punct	_	_
+
+# newdoc id = w03002
+# sent_id = w03002048
+# text = Nei primi anni 2000, c'erano 5 dottori per 100.000 abitanti.
+# text_en = In the early 2000s, there were five doctors per 100,000 inhabitants.
+1-2	Nei	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	4	case	_	_
+2	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
+4	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	_
+5	2000	2000	NUM	CD	_	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	c'	ci	PRON	EX	_	8	expl	_	SpaceAfter=No
+8	erano	essere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+9	5	5	NUM	CD	_	10	nummod	_	_
+10	dottori	dottore	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
+11	per	per	ADP	IN	_	13	case	_	_
+12	100.000	100.000	NUM	CD	_	13	nummod	_	_
+13	abitanti	abitante	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w03002055
+# text = Amnesty International cita articoli di giornale che nel 2008 descrivono l'omicidio di 50 persone accusate di stregoneria.
+# text_en = Amnesty International cites newspaper articles from 2008 describing the murder of fifty people accused of witchcraft.
+1	Amnesty	Amnesty	PROPN	NNP	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	International	International	PROPN	NNP	Gender=Fem|Number=Sing	1	flat	_	_
+3	cita	citare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	articoli	articolo	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
+5	di	di	ADP	IN	_	6	case	_	_
+6	giornale	giornale	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
+7	che	che	PRON	WP	Gender=Masc|Number=Plur	11	nsubj	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	2008	2008	NUM	CD	_	11	obl	_	_
+11	descrivono	descrivere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	_
+12	l'	il	DET	DT	Gender=Masc|Number=Sing	13	det	_	SpaceAfter=No
+13	omicidio	omicidio	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
+14	di	di	ADP	IN	_	16	case	_	_
+15	50	50	NUM	CD	_	16	nummod	_	_
+16	persone	persona	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
+17	accusate	accusare	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|Voice=Pass	16	acl	_	_
+18	di	di	ADP	IN	_	19	case	_	_
+19	stregoneria	stregoneria	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = Von Bellingshausen avvistò l'Antartide il 27 gennaio 1820, tre giorni prima che Bransfield avvistasse terra e ben 10 mesi prima che Palmer facesse lo stesso nel novembre 1820.
+# text_en = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	Von	Von	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Bellingshausen	Bellingshausen	PROPN	NNP	Gender=Masc|Number=Sing	1	flat	_	_
+3	avvistò	avvistare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	l'	il	DET	DT	Gender=Masc|Number=Sing	5	det	_	SpaceAfter=No
+5	Antartide	Antartide	PROPN	NNP	Gender=Masc|Number=Sing	3	obj	_	_
+6	il	il	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+7	27	27	NUM	CD	_	3	obl	_	_
+8	gennaio	gennaio	NOUN	NN	Gender=Masc|Number=Sing	7	flat	_	_
+9	1820	1820	NUM	CD	_	7	flat	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	3	punct	_	_
+11	tre	tre	NUM	CD	_	12	nummod	_	_
+12	giorni	giorno	NOUN	NN	Gender=Masc|Number=Plur	13	obl:tmod	_	_
+13	prima	prima	ADV	RB	_	16	mark	_	_
+14	che	che	SCONJ	IN	_	13	fixed	_	_
+15	Bransfield	Bransfield	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	_
+16	avvistasse	avvistare	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	_
+17	terra	terra	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	_
+18	e	e	CCONJ	CC	_	25	cc	_	_
+19	ben	bene	ADV	RB	_	20	advmod	_	_
+20	10	10	NUM	CD	_	21	nummod	_	_
+21	mesi	mese	NOUN	NN	Gender=Masc|Number=Plur	22	obl:tmod	_	_
+22	prima	prima	ADV	RB	_	25	mark	_	_
+23	che	che	SCONJ	IN	_	22	fixed	_	_
+24	Palmer	Palmer	PROPN	NNP	Gender=Masc|Number=Sing	25	nsubj	_	_
+25	facesse	fare	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	16	conj	_	_
+26	lo	lo	DET	DT	Gender=Masc|Number=Sing	27	det	_	_
+27	stesso	stesso	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
+28-29	nel	_	_	_	_	_	_	_	_
+28	in	in	ADP	IN	_	30	case	_	_
+29	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	novembre	novembre	NOUN	NN	Gender=Masc|Number=Sing	25	obl	_	_
+31	1820	1820	NUM	CD	_	30	flat	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w03003039
+# text = Nella spedizione Endurance del 1914, la nave inglese Endurance, capitanata da Sir Ernest Shackleton, salpò con 28 uomini per attraversare l'Antartico.
+# text_en = In the Endurance expedition in 1914, the British ship Endurance, captained by Sir Ernest Shackleton, set sail with twenty eight men to cross the Antarctic.
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	spedizione	spedizione	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
+4	Endurance	Endurance	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	IN	_	7	case	_	_
+6	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	1914	1914	NUM	CD	_	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	la	il	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+10	nave	nave	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
+11	inglese	inglese	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True
+12	Endurance	Endurance	PROPN	NNP	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	_	_
+14	capitanata	capitanare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	10	acl	_	_
+15	da	da	ADP	IN	_	16	case	_	_
+16	Sir	Sir	PROPN	NNP	Gender=Masc|Number=Sing	14	obl	_	_
+17	Ernest	Ernest	PROPN	NNP	Gender=Masc|Number=Sing	16	flat	_	_
+18	Shackleton	Shackleton	PROPN	NNP	Gender=Masc|Number=Sing	16	flat	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	14	punct	_	_
+20	salpò	salpare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+21	con	con	ADP	IN	_	23	case	_	_
+22	28	28	NUM	CD	_	23	nummod	_	_
+23	uomini	uomo	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
+24	per	per	ADP	IN	_	25	mark	_	_
+25	attraversare	attraversare	VERB	VB	Voice=Act	20	xcomp	_	_
+26	l'	il	DET	DT	Gender=Masc|Number=Sing	27	det	_	SpaceAfter=No
+27	Antartico	Antartico	PROPN	NNP	Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
+28	.	.	PUNCT	.	_	20	punct	_	_
+
+# newdoc id = w03004
+# sent_id = w03004037
+# text = La stesura di questo documento fu l'atto che sancì il diritto romano, l'istituzione della Repubblica Romana e il mos maiorum.
+# text_en = This drawing up was the founding act of Roman law, the institutions of the Roman Republic and the mos maiorum.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	stesura	stesura	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	di	di	ADP	IN	_	5	case	_	_
+4	questo	questo	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+5	documento	documento	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
+6	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	_
+7	l'	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	SpaceAfter=No
+8	atto	atto	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+9	che	che	PRON	WP	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	sancì	sancire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	_
+11	il	il	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+12	diritto	diritto	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
+13	romano	romano	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
+14	,	,	PUNCT	,	_	12	punct	_	_
+15	l'	il	DET	DT	Gender=Fem|Number=Sing	16	det	_	SpaceAfter=No
+16	istituzione	istituzione	NOUN	NN	Gender=Fem|Number=Sing	12	conj	_	_
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+19	Repubblica	Repubblica	PROPN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
+20	Romana	Romana	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	Proper=True
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	il	il	DET	DT	Gender=Masc|Number=Sing	23	det	_	_
+23	mos	mos	NOUN	NN	Gender=Masc|Number=Sing	12	conj	_	_
+24	maiorum	maiorum	X	GW	_	23	flat	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w03004107
+# text = Tuttavia Pirro venne obbligato a lasciare la Sicilia per occuparsi di altri affari in Italia meridionale.
+# text_en = However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.
+1	Tuttavia	tuttavia	ADV	RB	_	4	advmod	_	_
+2	Pirro	Pirro	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	obbligato	obbligare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+5	a	a	ADP	IN	_	6	mark	_	_
+6	lasciare	lasciare	VERB	VB	Voice=Act	4	xcomp	_	_
+7	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+8	Sicilia	Sicilia	PROPN	NNP	Gender=Fem|Number=Sing	6	obj	_	_
+9	per	per	ADP	IN	_	10	mark	_	_
+10-11	occuparsi	_	_	_	_	_	_	_	_
+10	occupar	occupare	VERB	VB	Voice=Act	4	xcomp	_	_
+11	si	si	PRON	SE	Number=Sing|Person=3	10	expl	_	_
+12	di	di	ADP	IN	_	14	case	_	_
+13	altri	altro	DET	DT	Gender=Masc|Number=Plur	14	det	_	_
+14	affari	affare	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
+15	in	in	ADP	IN	_	16	case	_	_
+16	Italia	Italia	PROPN	NNP	Gender=Fem|Number=Sing	14	nmod	_	_
+17	meridionale	meridionale	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w03005
+# sent_id = w03005012
+# text = Nell'VIII secolo a.C, la Grecia iniziò ad emergere dai secolo bui che seguirono la caduta della civiltà micenea.
+# text_en = In the 8th century BC, Greece began to emerge from the Dark Ages which followed the fall of the Mycenaean civilization.
+1-2	Nell'	_	_	_	_	_	_	_	SpaceAfter=No
+1	In	in	ADP	IN	_	4	case	_	_
+2	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	VIII	VIII	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+4	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+5	a.C	a.C	SYM	SYM	_	4	obl:tmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+8	Grecia	Grecia	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	iniziò	iniziare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+10	ad	ad	ADP	IN	_	11	mark	_	_
+11	emergere	emergere	VERB	VB	Voice=Act	9	xcomp	_	_
+12-13	dai	_	_	_	_	_	_	_	_
+12	da	da	ADP	IN	_	14	case	_	_
+13	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	secolo	secolo	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+15	bui	buio	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
+16	che	che	PRON	WP	Gender=Masc|Number=Plur	17	nsubj	_	_
+17	seguirono	seguire	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	14	acl:relcl	_	_
+18	la	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+19	caduta	caduta	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	IN	_	22	case	_	_
+21	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	civiltà	civiltà	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
+23	micenea	miceneo	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	Proper=True|SpaceAfter=No
+24	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = w03005013
+# text = La scrittura era andata perduta e i manoscritti micenei dimenticati, ma i greci adottarono l'alfabeto fenicio, modificandolo per creare quello greco.
+# text_en = Literacy had been lost and Mycenaean script forgotten, but the Greeks adopted the Phoenician alphabet, modifying it to create the Greek alphabet.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	scrittura	scrittura	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	_
+4	andata	andare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
+5	perduta	perduto	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	4	acl	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	i	il	DET	DT	Gender=Masc|Number=Plur	8	det	_	_
+8	manoscritti	manoscritto	NOUN	NN	Gender=Masc|Number=Plur	4	conj	_	orig_deprel=nsubj
+9	micenei	miceneo	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	Proper=True
+10	dimenticati	dimenticare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|Voice=Pass	8	orphan	_	orig_deprel=acl|SpaceAfter=No
+11	,	,	PUNCT	,	_	4	punct	_	_
+12	ma	ma	CCONJ	CC	_	15	cc	_	_
+13	i	il	DET	DT	Gender=Masc|Number=Plur	14	det	_	_
+14	greci	greco	PROPN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
+15	adottarono	adottare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	4	conj	_	_
+16	l'	il	DET	DT	Gender=Masc|Number=Sing	17	det	_	SpaceAfter=No
+17	alfabeto	alfabeto	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
+18	fenicio	fenicio	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True|SpaceAfter=No
+19	,	,	PUNCT	,	_	20	punct	_	_
+20-21	modificandolo	_	_	_	_	_	_	_	_
+20	modificando	modificare	VERB	VBG	Voice=Act	15	advcl	_	_
+21	lo	lo	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	obj	_	_
+22	per	per	ADP	IN	_	23	mark	_	_
+23	creare	creare	VERB	VB	Voice=Act	20	xcomp	_	_
+24	quello	quello	PRON	PRP	Gender=Masc|Number=Sing|PronType=Dem	23	obj	_	_
+25	greco	greco	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	Proper=True|SpaceAfter=No
+26	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w03005014
+# text = I primi testi greci cominciarono ad apparire dal IX secolo a.C.
+# text_en = From the 9th century BC, the first Greek texts began to appear.
+1	I	il	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
+2	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
+3	testi	testo	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	greci	greco	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
+5	cominciarono	cominciare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6	ad	ad	ADP	IN	_	7	mark	_	_
+7	apparire	apparire	VERB	VB	Voice=Act	5	xcomp	_	_
+8-9	dal	_	_	_	_	_	_	_	_
+8	da	da	ADP	IN	_	11	case	_	_
+9	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	IX	IX	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+11	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
+12	a.C.	a.C.	SYM	SYM	_	11	obl:tmod	_	_
+
+# sent_id = w03005015
+# text = La Grecia era divisa in molte piccole comunità autogovernate, un modello largamente dettato dalla geografia greca: ogni isola, valle e pianura è separata dai luoghi vicini dal mare o dalle catene montuose.
+# text_en = Greece was divided into many small, self-governing communities, a pattern largely dictated by Greek geography: every island, valley and plain is cut off from its neighbours by the sea or mountain ranges.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	Grecia	Grecia	PROPN	NNP	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
+4	divisa	dividere	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	molte	molto	DET	DT	Gender=Fem|Number=Plur	8	det	_	_
+7	piccole	piccolo	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
+8	comunità	comunità	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
+9	autogovernate	autogovernate	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	4	punct	_	_
+11	un	uno	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+12	modello	modello	NOUN	NN	Gender=Masc|Number=Sing	4	parataxis	_	_
+13	largamente	largo	ADV	RB	_	14	advmod	_	_
+14	dettato	dettare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	12	acl	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	IN	_	17	case	_	_
+16	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	geografia	geografia	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
+18	greca	greco	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	Proper=True|SpaceAfter=No
+19	:	:	PUNCT	:	_	12	punct	_	_
+20	ogni	ogni	DET	DT	Gender=Fem|Number=Sing	21	det	_	_
+21	isola	isola	NOUN	NN	Gender=Fem|Number=Sing	27	nsubj:pass	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	21	punct	_	_
+23	valle	valle	NOUN	NN	Gender=Fem|Number=Sing	21	conj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	pianura	pianura	NOUN	NN	Gender=Fem|Number=Sing	21	conj	_	_
+26	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	27	aux:pass	_	_
+27	separata	separare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	12	parataxis	_	_
+28-29	dai	_	_	_	_	_	_	_	_
+28	da	da	ADP	IN	_	30	case	_	_
+29	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	luoghi	luogo	NOUN	NN	Gender=Masc|Number=Plur	27	obl	_	_
+31	vicini	vicino	ADJ	JJ	Gender=Masc|Number=Plur	30	amod	_	_
+32-33	dal	_	_	_	_	_	_	_	_
+32	da	da	ADP	IN	_	34	case	_	_
+33	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	mare	mare	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
+35	o	o	CCONJ	CC	_	38	cc	_	_
+36-37	dalle	_	_	_	_	_	_	_	_
+36	da	da	ADP	IN	_	38	case	_	_
+37	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	_
+38	catene	catena	NOUN	NN	Gender=Fem|Number=Plur	34	conj	_	_
+39	montuose	montuoso	ADJ	JJ	Gender=Fem|Number=Plur	38	amod	_	SpaceAfter=No
+40	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w03005016
+# text = Le città stato cominciarono ad apparire intorno all'VIII secolo a.C: piccoli territori autogovernati con il loro proprio sistema politico.
+# text_en = From about the 8th century BC city states began to appear: small, self-governing territories with their own political systems.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	città	città	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	stato	stato	NOUN	NN	Gender=Masc|Number=Sing	2	compound	_	_
+4	cominciarono	cominciare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+5	ad	ad	ADP	IN	_	6	mark	_	_
+6	apparire	apparire	VERB	VB	Voice=Act	4	xcomp	_	_
+7	intorno	intorno	ADV	RB	_	10	case	_	_
+8	all'	a	ADP	INDT	Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
+9	VIII	VIII	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+10	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
+11	a.C	a.C	SYM	SYM	_	10	obl:tmod	_	SpaceAfter=No
+12	:	:	PUNCT	:	_	4	punct	_	_
+13	piccoli	piccolo	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
+14	territori	territorio	NOUN	NN	Gender=Masc|Number=Plur	4	parataxis	_	_
+15	autogovernati	autogovernati	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
+16	con	con	ADP	IN	_	20	case	_	_
+17	il	il	DET	DT	Gender=Masc|Number=Sing	20	det	_	_
+18	loro	loro	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	20	det:poss	_	_
+19	proprio	proprio	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	20	det:poss	_	_
+20	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
+21	politico	politico	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w03006
+# sent_id = w03006024
+# text = Nel Medioevo, la maggior parte dei cristiani non aveva accesso alla Bibbia nella propria lingua madre.
+# text_en = In the Middle Ages, most Christians did not have access to the Bible in their mother tongue.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Medioevo	Medioevo	PROPN	NNP	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	la	il	DET	DT	Gender=Fem|Number=Sing	7	det	_	_
+6	maggior	maggiore	ADJ	JJS	Degree=Sup|Gender=Fem|Number=Sing	7	amod	_	_
+7	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	12	nsubj	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	IN	_	10	case	_	_
+9	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	cristiani	cristiano	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+11	non	non	ADV	RB	Polarity=Neg	12	advmod	_	_
+12	aveva	avere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+13	accesso	accesso	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	IN	_	16	case	_	_
+15	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Bibbia	Bibbia	PROPN	NNP	Gender=Fem|Number=Sing	13	nmod	_	_
+17-18	nella	_	_	_	_	_	_	_	_
+17	in	in	ADP	IN	_	20	case	_	_
+18	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	propria	proprio	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	20	det:poss	_	_
+20	lingua	lingua	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
+21	madre	madre	NOUN	NN	Gender=Fem|Number=Sing	20	compound	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	12	punct	_	_
+
+# newdoc id = w03007
+# sent_id = w03007008
+# text = Tuttavia, non si espansero finché le navi diventarono grandi abbastanza da attraversare i mari.
+# text_en = However, they did not expand until ships big enough to cross seas were built.
+1	Tuttavia	tuttavia	ADV	RB	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	non	non	ADV	RB	Polarity=Neg	5	advmod	_	_
+4	si	si	PRON	SE	Number=Plur|Person=3	5	expl	_	_
+5	espansero	espandere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6	finché	finché	SCONJ	IN	_	9	mark	_	_
+7	le	il	DET	DT	Gender=Fem|Number=Plur	8	det	_	_
+8	navi	nave	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
+9	diventarono	diventare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	5	advcl	_	_
+10	grandi	grande	ADJ	JJ	Gender=Fem|Number=Plur	9	xcomp	_	_
+11	abbastanza	abbastanza	ADV	RB	_	10	advmod	_	_
+12	da	da	ADP	IN	_	13	mark	_	_
+13	attraversare	attraversare	VERB	VB	Voice=Act	10	xcomp	_	_
+14	i	il	DET	DT	Gender=Masc|Number=Plur	15	det	_	_
+15	mari	mare	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w03007039
+# text = Il commercio venne sviluppato stabilendo avamposti commerciali in tutto il Mediterraneo, una tecnica che non era stata usata fino ad allora.
+# text_en = Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	commercio	commercio	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	sviluppato	sviluppare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+5	stabilendo	stabilire	VERB	VBG	Voice=Act	4	advcl	_	_
+6	avamposti	avamposto	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
+7	commerciali	commerciale	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	tutto	tutto	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+10	il	il	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+11	Mediterraneo	Mediterraneo	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	una	uno	DET	DT	Gender=Fem|Number=Sing	14	det	_	_
+14	tecnica	tecnica|tecnico	NOUN	NN	Gender=Fem|Number=Sing	5	parataxis	_	_
+15	che	che	PRON	WP	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+16	non	non	ADV	RB	Polarity=Neg	19	advmod	_	_
+17	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	19	aux	_	_
+18	stata	essere	AUX	VBN	Gender=Fem|Number=Sing|Tense=Past	19	aux:pass	_	_
+19	usata	usare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	14	acl:relcl	_	_
+20	fino	fino	ADP	IN	_	22	case	_	_
+21	ad	ad	ADP	IN	_	20	fixed	_	_
+22	allora	allora	ADV	RB	_	19	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w03008
+# sent_id = w03008011
+# text = Questa relazione può essere considerata come punto di inizio per la sua carriera di rivoluzionario radicale.
+# text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
+1	Questa	questo	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	relazione	relazione	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+3	può	potere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	aux	_	_
+4	essere	essere	AUX	VB	Voice=Pass	5	aux:pass	_	_
+5	considerata	considerare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
+6	come	come	ADP	IN	_	7	case	_	_
+7	punto	punto	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
+8	di	di	ADP	IN	_	9	case	_	_
+9	inizio	inizio	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
+10	per	per	ADP	IN	_	13	case	_	_
+11	la	il	DET	DT	Gender=Fem|Number=Sing	13	det	_	_
+12	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	13	det:poss	_	_
+13	carriera	carriera	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
+14	di	di	ADP	IN	_	15	case	_	_
+15	rivoluzionario	rivoluzionario	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
+16	radicale	radicale	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w03008029
+# text = Nel Piovoso del terzo anno (gennaio-febbraio 1794), smorzando la pressione del Terrore, adottò varie misure per liberare i sospetti.
+# text_en = In Pluviose year III (January-February 1794), easing off the pressure of the Reign of Terror, he took various measures to liberate the suspects.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Piovoso	Piovoso	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	7	case	_	_
+5	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	terzo	terzo	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
+7	anno	anno	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
+8	(	(	PUNCT	(	_	9	punct	_	SpaceAfter=No
+9	gennaio	gennaio	NOUN	NN	Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+10	-	-	PUNCT	-	_	9	punct	_	SpaceAfter=No
+11	febbraio	febbraio	NOUN	NN	Gender=Masc|Number=Sing	9	flat	_	_
+12	1794	1794	NUM	CD	_	9	flat	_	SpaceAfter=No
+13	)	)	PUNCT	)	_	9	punct	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	smorzando	smorzare	VERB	VBG	Voice=Act	22	advcl	_	_
+16	la	il	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+17	pressione	pressione	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Terrore	Terrore	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	15	punct	_	_
+22	adottò	adottare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+23	varie	vario	DET	DT	Gender=Fem|Number=Plur	24	det	_	_
+24	misure	misura	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
+25	per	per	ADP	IN	_	26	mark	_	_
+26	liberare	liberare	VERB	VB	Voice=Act	22	xcomp	_	_
+27	i	il	DET	DT	Gender=Masc|Number=Plur	28	det	_	_
+28	sospetti	sospetto	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	22	punct	_	_
+
+# newdoc id = w03009
+# sent_id = w03009029
+# text = Finanziate interamente con il denaro di Bernard Tapie, queste scuole vennero chiuse nel 1994 quando dichiarò bancarotta.
+# text_en = Financed entirely with Bernard Tapie's own money, these schools were closed in 1994 when he was declared bankrupt.
+1	Finanziate	finanziare	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|Voice=Pass	13	advcl	_	_
+2	interamente	intero	ADV	RB	_	1	advmod	_	_
+3	con	con	ADP	IN	_	5	case	_	_
+4	il	il	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+5	denaro	denaro	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
+6	di	di	ADP	IN	_	7	case	_	_
+7	Bernard	Bernard	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
+8	Tapie	Tapie	PROPN	NNP	Gender=Masc|Number=Sing	7	flat	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	1	punct	_	_
+10	queste	questo	DET	DT	Gender=Fem|Number=Plur	11	det	_	_
+11	scuole	scuola	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj:pass	_	_
+12	vennero	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	13	aux:pass	_	_
+13	chiuse	chiuso	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past	0	root	_	_
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	IN	_	16	case	_	_
+15	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	1994	1994	NUM	CD	_	13	obl	_	_
+17	quando	quando	SCONJ	IN	_	18	mark	_	_
+18	dichiarò	dichiarare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	13	advcl	_	_
+19	bancarotta	bancarotta	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = w03009044
+# text = Nonostante fosse il distributore numero uno a livello mondiale di equipaggiamenti e tessuti, la società tedesca aveva problemi finanziari.
+# text_en = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
+1	Nonostante	nonostante	SCONJ	IN	_	4	mark	_	_
+2	fosse	essere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
+3	il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+4	distributore	distributore	NOUN	NN	Gender=Masc|Number=Sing	18	advcl	_	_
+5	numero	numero	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
+6	uno	uno	NUM	CD	Gender=Masc	5	nummod	_	_
+7	a	a	ADP	IN	_	8	case	_	_
+8	livello	livello	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
+9	mondiale	mondiale	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
+10	di	di	ADP	IN	_	11	case	_	_
+11	equipaggiamenti	equipaggiamento	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	tessuti	tessuto	NOUN	NN	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	4	punct	_	_
+15	la	il	DET	DT	Gender=Fem|Number=Sing	16	det	_	_
+16	società	società	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
+17	tedesca	tedesco	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
+18	aveva	avere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+19	problemi	problema	NOUN	NN	Gender=Masc|Number=Plur	18	obj	_	_
+20	finanziari	finanziario	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	18	punct	_	_
+
+# newdoc id = w03010
+# sent_id = w03010096
+# text = Per allontanarsi da tutto questo, i Remi si stabilirono in Svizzera per la maggior parte dell'estate 1947.
+# text_en = To get away from it all, the Remis resided in Switzerland for most of summer 1947.
+1	Per	per	ADP	IN	_	2	mark	_	_
+2-3	allontanarsi	_	_	_	_	_	_	_	_
+2	allontanar	allontanare	VERB	VB	Voice=Act	11	xcomp	_	_
+3	si	si	PRON	SE	Number=Sing|Person=3	2	expl	_	_
+4	da	da	ADP	IN	_	6	case	_	_
+5	tutto	tutto	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+6	questo	questo	PRON	PRP	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+9	Remi	Remi	PROPN	NNP	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	si	si	PRON	SE	Number=Plur|Person=3	11	expl	_	_
+11	stabilirono	stabilire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+12	in	in	ADP	IN	_	13	case	_	_
+13	Svizzera	Svizzera	PROPN	NNP	Gender=Fem|Number=Sing	11	obl	_	_
+14	per	per	ADP	IN	_	17	case	_	_
+15	la	il	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+16	maggior	maggiore	ADJ	JJS	Degree=Sup|Gender=Fem|Number=Sing	17	amod	_	_
+17	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+18	di	di	ADP	IN	_	20	case	_	_
+19	l'	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	estate	estate	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
+21	1947	1947	NUM	CD	_	20	obl:tmod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w03010097
+# text = Durante il loro ritorno, considerarono l'idea di vivere in Sud America, lontano dai problemi del Belgio post bellico.
+# text_en = On their return, they entertained the idea of living in South America, far away from the problems of postwar Belgium.
+1	Durante	durante	ADP	IN	_	4	case	_	_
+2	il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	loro	loro	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	4	det:poss	_	_
+4	ritorno	ritorno	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	considerarono	considerare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+7	l'	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	SpaceAfter=No
+8	idea	idea	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	di	di	ADP	IN	_	10	mark	_	_
+10	vivere	vivere	VERB	VB	Voice=Act	8	acl	_	_
+11	in	in	ADP	IN	_	12	case	_	_
+12	Sud	Sud	PROPN	NNP	Gender=Masc|Number=Sing	10	obl	_	_
+13	America	America	PROPN	NNP	Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	lontano	lontano	ADV	RB	_	17	case	_	_
+16	dai	da	ADP	INDT	Gender=Masc|Number=Plur	15	fixed	_	_
+17	problemi	problema	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Belgio	Belgio	PROPN	NNP	Gender=Masc|Number=Sing	17	nmod	_	_
+21	post	post	ADJ	JJ	_	22	amod	_	_
+22	bellico	bellico	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w03010098
+# text = Nella primavera del 1948, nella speranza di adattare Tintin per il cinema, l'artista belga scrisse una lettera a Walt Disney chiedendo invano il suo supporto.
+# text_en = In spring 1948, in hopes of adapting Tintin for the cinema, the Belgian artist wrote a letter to Walt Disney, asking in vain for his support.
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	primavera	primavera	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	6	case	_	_
+5	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	1948	1948	NUM	CD	_	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	speranza	speranza	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
+11	di	di	ADP	IN	_	12	mark	_	_
+12	adattare	adattare	VERB	VB	Voice=Act	10	acl	_	_
+13	Tintin	Tintin	PROPN	NNP	Gender=Masc|Number=Sing	12	obj	_	_
+14	per	per	ADP	IN	_	16	case	_	_
+15	il	il	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+16	cinema	cinema	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	10	punct	_	_
+18	l'	il	DET	DT	Gender=Masc|Number=Sing	19	det	_	SpaceAfter=No
+19	artista	artista	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
+20	belga	belga	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	Proper=True
+21	scrisse	scrivere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+22	una	uno	DET	DT	Gender=Fem|Number=Sing	23	det	_	_
+23	lettera	lettera	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
+24	a	a	ADP	IN	_	25	case	_	_
+25	Walt	Walt	PROPN	NNP	Gender=Masc|Number=Sing	21	obl	_	_
+26	Disney	Disney	PROPN	NNP	Gender=Masc|Number=Sing	25	flat	_	_
+27	chiedendo	chiedere	VERB	VBG	Voice=Act	21	advcl	_	_
+28	invano	invano	ADV	RB	_	27	advmod	_	_
+29	il	il	DET	DT	Gender=Masc|Number=Sing	31	det	_	_
+30	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	31	det:poss	_	_
+31	supporto	supporto	NOUN	NN	Gender=Masc|Number=Sing	27	obj	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	21	punct	_	_
+
+# sent_id = w03010099
+# text = In estate, Georges e sua moglie tornarono in Svizzera, accompagnati da Rosane, una ragazza di 18 anni figlia di uno degli amici di Germaine.
+# text_en = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	In	in	ADP	IN	_	2	case	_	_
+2	estate	estate	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	Georges	Georges	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	7	det:poss	_	_
+7	moglie	moglie	NOUN	NN	Gender=Fem|Number=Sing	4	conj	_	_
+8	tornarono	tornare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+9	in	in	ADP	IN	_	10	case	_	_
+10	Svizzera	Svizzera	PROPN	NNP	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	12	punct	_	_
+12	accompagnati	accompagnare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|Voice=Pass	8	advcl	_	_
+13	da	da	ADP	IN	_	14	case	_	_
+14	Rosane	Rosane	PROPN	NNP	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	una	uno	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+17	ragazza	ragazzo	NOUN	NN	Gender=Fem|Number=Sing	14	appos	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	18	18	NUM	CD	_	20	nummod	_	_
+20	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	17	nmod	_	_
+21	figlia	figlio	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
+22	di	di	ADP	IN	_	23	case	_	_
+23	uno	uno	NUM	CD	Gender=Masc	21	nmod	_	_
+24-25	degli	_	_	_	_	_	_	_	_
+24	di	di	ADP	IN	_	26	case	_	_
+25	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	amici	amico	NOUN	NN	Gender=Masc|Number=Plur	23	nmod	_	_
+27	di	di	ADP	IN	_	28	case	_	_
+28	Germaine	Germaine	PROPN	NNP	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w03010100
+# text = Durante la vacanza iniziò una relazione extraconiugale con la giovane ragazza e lo confessò poco dopo.
+# text_en = During the holiday, he began an extra-marital affair with the young girl, which he admitted shortly after.
+1	Durante	durante	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	vacanza	vacanza	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
+4	iniziò	iniziare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	una	uno	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+6	relazione	relazione	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
+7	extraconiugale	extraconiugale	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
+8	con	con	ADP	IN	_	11	case	_	_
+9	la	il	DET	DT	Gender=Fem|Number=Sing	11	det	_	_
+10	giovane	giovane	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
+11	ragazza	ragazzo	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	lo	lo	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obj	_	_
+14	confessò	confessare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
+15	poco	poco	ADV	RB	_	16	advmod	_	_
+16	dopo	dopo	ADV	RB	_	14	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w04001
+# sent_id = w04001027
+# text = Nella parte inferiore ci sono tre palme affacciate sul mare che rappresentano l'amore degli abitanti di queste isole per il loro territorio.
+# text_en = In the lower part, there are three palm trees overlooking the sea, which represent the love that the people of this Island have for their land.
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
+4	inferiore	inferiore	ADJ	JJR	Gender=Fem|Number=Sing	3	amod	_	_
+5	ci	ci	PRON	EX	_	6	expl	_	_
+6	sono	essere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+7	tre	tre	NUM	CD	_	8	nummod	_	_
+8	palme	palma|palme	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
+9	affacciate	affacciare	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
+10-11	sul	_	_	_	_	_	_	_	_
+10	su	su	ADP	IN	_	12	case	_	_
+11	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mare	mare	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+13	che	che	PRON	WP	Gender=Masc|Number=Plur	14	nsubj	_	_
+14	rappresentano	rappresentare	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	8	acl:relcl	_	_
+15	l'	il	DET	DT	Gender=Masc|Number=Sing	16	det	_	SpaceAfter=No
+16	amore	amore	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
+17-18	degli	_	_	_	_	_	_	_	_
+17	di	di	ADP	IN	_	19	case	_	_
+18	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	abitanti	abitante	NOUN	NN	Gender=Masc|Number=Plur	16	nmod	_	_
+20	di	di	ADP	IN	_	22	case	_	_
+21	queste	questo	DET	DT	Gender=Fem|Number=Plur	22	det	_	_
+22	isole	isola	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	_
+23	per	per	ADP	IN	_	26	case	_	_
+24	il	il	DET	DT	Gender=Masc|Number=Sing	26	det	_	_
+25	loro	loro	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	26	det:poss	_	_
+26	territorio	territorio	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w04001037
+# text = Inoltre è possibile l'arrivo di uragani sulle isole nel periodo estivo.
+# text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
+1	Inoltre	inoltre	ADV	RB	_	3	advmod	_	_
+2	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
+3	possibile	possibile	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+4	l'	il	DET	DT	Gender=Masc|Number=Sing	5	det	_	SpaceAfter=No
+5	arrivo	arrivo	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	di	di	ADP	IN	_	7	case	_	_
+7	uragani	uragano	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
+8-9	sulle	_	_	_	_	_	_	_	_
+8	su	su	ADP	IN	_	10	case	_	_
+9	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	isole	isola	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+11-12	nel	_	_	_	_	_	_	_	_
+11	in	in	ADP	IN	_	13	case	_	_
+12	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
+14	estivo	estivo	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w04001053
+# text = Queste isole sorgono presso la faglia indo-australiana, dovuta alla collisione tra la placca indiana e quella australiana.
+# text_en = The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.
+1	Queste	questo	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	isole	isola	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	sorgono	sorgere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	presso	presso	ADP	IN	_	6	case	_	_
+5	la	il	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+6	faglia	faglia	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
+7	indo-australiana	indo-australiana	X	AFX	_	6	amod	_	Proper=True|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	_	_
+9	dovuta	dovere	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	IN	_	12	case	_	_
+11	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	collisione	collisione	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
+13	tra	tra	ADP	IN	_	15	case	_	_
+14	la	il	DET	DT	Gender=Fem|Number=Sing	15	det	_	_
+15	placca	placca	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
+16	indiana	indiano	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	Proper=True
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	quella	quello	PRON	PRP	Gender=Fem|Number=Sing|PronType=Dem	15	conj	_	_
+19	australiana	australiano	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True|SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w04002
+# sent_id = w04002008
+# text = Ad avvalorare quest'ipotesi ci sarebbe stato il corposo allevamento reale di cavalli alla Villa Pelucca, a Sesto San Giovanni.
+# text_en = An element supporting this hypothesis would be the intense royal livestock of horses that took place at Villa Pelucca, in Sesto San Giovanni.
+1	Ad	ad	ADP	IN	_	2	mark	_	_
+2	avvalorare	avvalorare	VERB	VB	Voice=Act	7	xcomp	_	_
+3	quest'	questo	DET	DT	Gender=Fem|Number=Sing	4	det	_	SpaceAfter=No
+4	ipotesi	ipotesi	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
+5	ci	ci	PRON	EX	_	7	expl	_	_
+6	sarebbe	essere	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	aux	_	_
+7	stato	essere	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+8	il	il	DET	DT	Gender=Masc|Number=Sing	10	det	_	_
+9	corposo	corposo	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+10	allevamento	allevamento	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
+11	reale	reale	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+12	di	di	ADP	IN	_	13	case	_	_
+13	cavalli	cavallo	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	IN	_	16	case	_	_
+15	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Villa	Villa	PROPN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
+17	Pelucca	Pelucca	PROPN	NNP	Gender=Fem|Number=Sing	16	flat	_	SpaceAfter=No
+18	,	,	PUNCT	,	_	7	punct	_	_
+19	a	a	ADP	IN	_	20	case	_	_
+20	Sesto	Sesto	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	_
+21	San	San	PROPN	NNP	Gender=Fem|Number=Sing	20	flat	_	_
+22	Giovanni	Giovanni	PROPN	NNP	Gender=Fem|Number=Sing	20	flat	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w04002048
+# text = Nel 1928 fu realizzato il campo da golf, in un'area di 90 ettari nella zona nord-orientale del parco, a fianco all'autodromo.
+# text_en = In 1928, a 90-hectare golf course was built in the north-eastern part of the park, next to the racetrack.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	1928	1928	NUM	CD	_	5	obl	_	_
+4	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	aux:pass	_	_
+5	realizzato	realizzare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+6	il	il	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+7	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+8	da	da	ADP	IN	_	9	case	_	_
+9	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	5	punct	_	_
+11	in	in	ADP	IN	_	13	case	_	_
+12	un'	uno	DET	DT	Gender=Fem|Number=Sing	13	det	_	SpaceAfter=No
+13	area	area	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
+14	di	di	ADP	IN	_	16	case	_	_
+15	90	90	NUM	CD	_	16	nummod	_	_
+16	ettari	ettaro	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
+17-18	nella	_	_	_	_	_	_	_	_
+17	in	in	ADP	IN	_	19	case	_	_
+18	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
+20	nord-orientale	nord-orientale	X	AFX	_	19	amod	_	_
+21-22	del	_	_	_	_	_	_	_	_
+21	di	di	ADP	IN	_	23	case	_	_
+22	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	parco	parco	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	,	_	19	punct	_	_
+25	a	a	ADP	IN	_	26	case	_	_
+26	fianco	fianco	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
+27-28	all'	_	_	_	_	_	_	_	SpaceAfter=No
+27	a	a	ADP	IN	_	29	case	_	_
+28	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	autodromo	autodromo	NOUN	NN	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w04002055
+# text = Nel 1976 cadde in disuso l'ippodromo, e nel 1990 un incendio distrusse ciò che rimaneva delle tribune in legno, in seguito demolite insieme alle stalle.
+# text_en = In 1976, the racecourse was no longer used; in 1990, a fire destroyed what remained of the wooden grandstands, which were later demolished along with the stables.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	1976	1976	NUM	CD	_	4	obl	_	_
+4	cadde	cadere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	in	in	ADP	IN	_	6	case	_	_
+6	disuso	disuso	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
+7	l'	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	SpaceAfter=No
+8	ippodromo	ippodromo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	4	punct	_	_
+10	e	e	CCONJ	CC	_	16	cc	_	_
+11-12	nel	_	_	_	_	_	_	_	_
+11	in	in	ADP	IN	_	13	case	_	_
+12	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	1990	1990	NUM	CD	_	16	obl	_	_
+14	un	uno	DET	DT	Gender=Masc|Number=Sing	15	det	_	_
+15	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj	_	_
+16	distrusse	distruggere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
+17	ciò	ciò	DET	DT	Gender=Masc|Number=Sing	16	obj	_	_
+18	che	che	PRON	WP	Gender=Masc|Number=Sing	19	nsubj	_	_
+19	rimaneva	rimanere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	17	acl:relcl	_	_
+20-21	delle	_	_	_	_	_	_	_	_
+20	di	di	ADP	IN	_	22	case	_	_
+21	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	tribune	tribuna	NOUN	NN	Gender=Fem|Number=Plur	19	obl	_	_
+23	in	in	ADP	IN	_	24	case	_	_
+24	legno	legno	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	28	punct	_	_
+26	in	in	ADP	IN	_	27	case	_	_
+27	seguito	seguito	NOUN	NN	Gender=Masc|Number=Sing	28	obl	_	_
+28	demolite	demolire	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|Voice=Pass	22	acl	_	_
+29	insieme	insieme	ADV	RB	_	31	case	_	_
+30	alle	a	ADP	INDT	Gender=Fem|Number=Plur	29	fixed	_	_
+31	stalle	stalla	NOUN	NN	Gender=Fem|Number=Plur	28	obl	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w04003
+# sent_id = w04003025
+# text = Nell'agosto del 1969, papa Paolo VI rimosse la pena di morte dagli statuti vaticani, abrogandola per qualsiasi reato.
+# text_en = In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.
+1-2	Nell'	_	_	_	_	_	_	_	SpaceAfter=No
+1	In	in	ADP	IN	_	3	case	_	_
+2	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	6	case	_	_
+5	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	1969	1969	NUM	CD	_	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	papa	papa	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
+9	Paolo	Paolo	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
+10	VI	VI	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
+11	rimosse	rimuovere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|Voice=Act	0	root	_	_
+12	la	il	DET	DT	Gender=Fem|Number=Sing	13	det	_	_
+13	pena	pena	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
+14	di	di	ADP	IN	_	15	case	_	_
+15	morte	morte	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
+16-17	dagli	_	_	_	_	_	_	_	_
+16	da	da	ADP	IN	_	18	case	_	_
+17	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	statuti	statuto	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+19	vaticani	vaticano	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	11	punct	_	_
+21-22	abrogandola	_	_	_	_	_	_	_	_
+21	abrogando	abrogare	VERB	VBG	Voice=Act	11	advcl	_	_
+22	la	la	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	obj	_	_
+23	per	per	ADP	IN	_	25	case	_	_
+24	qualsiasi	qualsiasi	DET	DT	Gender=Masc|Number=Sing	25	det	_	_
+25	reato	reato	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+26	.	.	PUNCT	.	_	11	punct	_	_
+
+# sent_id = w04003054
+# text = Le emissioni di moneta hanno carattere prevalentemente numismatico, e sono destinate soprattutto a essere vendute ai collezionisti.
+# text_en = The issuing of coinage is predominantly numismatic in nature, with the intention of being sold mainly to collectors.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	emissioni	emissione	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	moneta	moneta	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
+5	hanno	avere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+6	carattere	carattere	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
+7	prevalentemente	prevalentemente	ADV	RB	_	8	advmod	_	_
+8	numismatico	numismatico	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	5	punct	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	sono	essere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	12	aux:pass	_	_
+12	destinate	destinare	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past	5	conj	_	_
+13	soprattutto	soprattutto	ADV	RB	_	12	advmod	_	_
+14	a	a	ADP	IN	_	16	mark	_	_
+15	essere	essere	AUX	VB	Voice=Pass	16	aux:pass	_	_
+16	vendute	vendere	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past	12	xcomp	_	_
+17-18	ai	_	_	_	_	_	_	_	_
+17	a	a	ADP	IN	_	19	case	_	_
+18	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	collezionisti	collezionista	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	5	punct	_	_
+
+# newdoc id = w04004
+# sent_id = w04004005
+# text = L'interno della regione è pianeggiante e collinoso, senza evidente distinzione tra una zona e l'altra.
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	L'	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	SpaceAfter=No
+2	interno	interno	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	IN	_	5	case	_	_
+4	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	regione	regione	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	_
+7	pianeggiante	pianeggiante	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	collinoso	collinoso	ADJ	JJ	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	7	punct	_	_
+11	senza	senza	ADP	IN	_	13	case	_	_
+12	evidente	evidente	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+13	distinzione	distinzione	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
+14	tra	tra	ADP	IN	_	16	case	_	_
+15	una	uno	DET	DT	Gender=Fem|Number=Sing	16	det	_	_
+16	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	l'	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	SpaceAfter=No
+19	altra	altro	NOUN	NN	Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = w04004045
+# text = Numerosi sono i reperti di epoca preistorica, tra i quali diversi menhir e dolmen.
+# text_en = There are many prehistoric artifacts, including several different menhirs and dolmens.
+1	Numerosi	numeroso	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
+2	sono	essere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	cop	_	_
+3	i	il	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+4	reperti	reperto	NOUN	NN	Gender=Masc|Number=Plur	1	nsubj	_	_
+5	di	di	ADP	IN	_	6	case	_	_
+6	epoca	epoca	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
+7	preistorica	preistorico	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	13	punct	_	_
+9	tra	tra	ADP	IN	_	11	case	_	_
+10	i	il	DET	DT	Gender=Masc|Number=Plur	11	det	_	_
+11	quali	quale	PRON	WP	Gender=Masc|Number=Plur	13	nmod	_	_
+12	diversi	diverso	DET	DT	Gender=Masc|Number=Plur	13	det	_	_
+13	menhir	menhir	NOUN	NN	Gender=Masc|Number=Plur	4	acl:relcl	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	dolmen	dolmen	NOUN	NN	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = w04004051
+# text = Venne quindi istituita la Regio II Apulia et Calabria, che includeva anche il Sannio, una parte dell'attuale Molise e la Basilicata orientale.
+# text_en = The second Apulian and Calabrian Royal Region was then established, also including Samnium, parts of Molise and the oriental Basilicata.
+1	Venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
+2	quindi	quindi	ADV	RB	_	3	advmod	_	_
+3	istituita	istituire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	Regio	Regio	PROPN	NNP	Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+6	II	II	PROPN	NNP	Gender=Fem|Number=Sing	5	flat	_	_
+7	Apulia	Apulia	PROPN	NNP	Gender=Fem|Number=Sing	5	flat	_	_
+8	et	et	PROPN	NNP	Gender=Fem|Number=Sing	5	flat	_	_
+9	Calabria	Calabria	PROPN	NNP	Gender=Fem|Number=Sing	5	flat	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	12	punct	_	_
+11	che	che	PRON	WP	Gender=Fem|Number=Sing	12	nsubj	_	_
+12	includeva	includere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
+13	anche	anche	ADV	RB	_	15	advmod	_	_
+14	il	il	DET	DT	Gender=Masc|Number=Sing	15	det	_	_
+15	Sannio	Sannio	PROPN	NNP	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	15	punct	_	_
+17	una	uno	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
+18	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
+19-20	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+19	di	di	ADP	IN	_	22	case	_	_
+20	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	attuale	attuale	ADJ	JJ	Gender=Masc|Number=Sing	22	amod	_	_
+22	Molise	Molise	PROPN	NNP	Gender=Masc|Number=Sing	18	nmod	_	_
+23	e	e	CCONJ	CC	_	25	cc	_	_
+24	la	il	DET	DT	Gender=Fem|Number=Sing	25	det	_	_
+25	Basilicata	Basilicata	PROPN	NNP	Gender=Fem|Number=Sing	18	conj	_	_
+26	orientale	orientale	ADJ	JJ	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
+27	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w04004059
+# text = Nel XIII secolo il nome Apulia fu utilizzato da alcuni autori per indicare la parte meridionale della penisola italiana.
+# text_en = During the thirteenth century, the name Apulia was used by some authors to signify the southern part of the Italian peninsula.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	4	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	XIII	XIII	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+4	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+5	il	il	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+6	nome	nome	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+7	Apulia	Apulia	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	_
+8	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	9	aux:pass	_	_
+9	utilizzato	utilizzare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+10	da	da	ADP	IN	_	12	case	_	_
+11	alcuni	alcuno	DET	DT	Gender=Masc|Number=Plur	12	det	_	_
+12	autori	autore	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
+13	per	per	ADP	IN	_	14	mark	_	_
+14	indicare	indicare	VERB	VB	Voice=Act	9	xcomp	_	_
+15	la	il	DET	DT	Gender=Fem|Number=Sing	16	det	_	_
+16	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
+17	meridionale	meridionale	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	penisola	penisola	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
+21	italiana	italiano	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	Proper=True|SpaceAfter=No
+22	.	.	PUNCT	.	_	9	punct	_	_
+
+# newdoc id = w04006
+# sent_id = w04006023
+# text = Lo storico David Crouch suggerisce che Stefano effettivamente rinunciò all'impresa attorno a quel periodo per concentrarsi su altri problemi.
+# text_en = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
+1	Lo	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	storico	storico	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	David	David	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
+4	Crouch	Crouch	PROPN	NNP	Gender=Masc|Number=Sing	3	flat	_	_
+5	suggerisce	suggerire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+6	che	che	SCONJ	IN	_	9	mark	_	_
+7	Stefano	Stefano	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	effettivamente	effettivo	ADV	RB	_	9	advmod	_	_
+9	rinunciò	rinunciare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	ccomp	_	_
+10-11	all'	_	_	_	_	_	_	_	SpaceAfter=No
+10	a	a	ADP	IN	_	12	case	_	_
+11	l'	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	impresa	impresa	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
+13	attorno	attorno	ADV	RB	_	16	case	_	_
+14	a	a	ADP	IN	_	13	fixed	_	_
+15	quel	quello	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+16	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+17	per	per	ADP	IN	_	18	mark	_	_
+18-19	concentrarsi	_	_	_	_	_	_	_	_
+18	concentrar	concentrare	VERB	VB	Voice=Act	9	xcomp	_	_
+19	si	si	PRON	SE	Number=Sing|Person=3	18	expl	_	_
+20	su	su	ADP	IN	_	22	case	_	_
+21	altri	altro	DET	DT	Gender=Masc|Number=Plur	22	det	_	_
+22	problemi	problema	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = w04006065
+# text = Solo uno sparuto numero di esse (contee) esistevano sotto Enrico I e queste erano in gran parte simboliche.
+# text_en = Only a handful of them (earldoms) had existed under Henry I and these had been largely symbolic.
+1	Solo	solo	ADV	RB	_	4	advmod	_	_
+2	uno	uno	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	sparuto	sparuto	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+4	numero	numero	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
+5	di	di	ADP	IN	_	6	case	_	_
+6	esse	esse	PRON	PRP	Case=Acc|Gender=Fem|Number=Plur|Person=3	4	nmod	_	_
+7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
+8	contee	contea	NOUN	NN	Gender=Fem|Number=Plur	6	appos	_	SpaceAfter=No
+9	)	)	PUNCT	)	_	8	punct	_	_
+10	esistevano	esistere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+11	sotto	sotto	ADP	IN	_	12	case	_	_
+12	Enrico	Enrico	PROPN	NNP	Gender=Masc|Number=Sing	10	obl	_	_
+13	I	I	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	Proper=True
+14	e	e	CCONJ	CC	_	20	cc	_	_
+15	queste	questo	PRON	PRP	Gender=Fem|Number=Plur	20	nsubj	_	_
+16	erano	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	20	cop	_	_
+17	in	in	ADP	IN	_	19	case	_	_
+18	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+19	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
+20	simboliche	simbolico	ADJ	JJ	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	10	punct	_	_
+
+# newdoc id = w04007
+# sent_id = w04007006
+# text = Durante la guerra della prima coalizione, si mise rapidamente in luce un giovane ufficiale d'artiglieria di origine corsa in forza all'esercito rivoluzionario francese: Napoleone Bonaparte.
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+1	Durante	durante	ADP	IN	_	3	case	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+4-5	della	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	7	case	_	_
+5	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	prima	primo	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
+7	coalizione	coalizione	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	si	si	PRON	SE	Number=Sing|Person=3	10	expl	_	_
+10	mise	mettere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+11	rapidamente	rapido	ADV	RB	_	10	advmod	_	_
+12	in	in	ADP	IN	_	13	case	_	_
+13	luce	luce	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+14	un	uno	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+15	giovane	giovane	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
+16	ufficiale	ufficiale	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
+17	d'	di	ADP	IN	_	18	case	_	SpaceAfter=No
+18	artiglieria	artiglieria	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
+19	di	di	ADP	IN	_	20	case	_	_
+20	origine	origine	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
+21	corsa	correre	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	Proper=True
+22	in	in	ADP	IN	_	23	case	_	_
+23	forza	forza	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
+24-25	all'	_	_	_	_	_	_	_	SpaceAfter=No
+24	a	a	ADP	IN	_	26	case	_	_
+25	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	esercito	esercito	NOUN	NN	Gender=Masc|Number=Sing	23	nmod	_	_
+27	rivoluzionario	rivoluzionario	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
+28	francese	francese	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	Proper=True|SpaceAfter=No
+29	:	:	PUNCT	:	_	16	punct	_	_
+30	Napoleone	Napoleone	PROPN	NNP	Gender=Masc|Number=Sing	16	appos	_	_
+31	Bonaparte	Bonaparte	PROPN	NNP	Gender=Masc|Number=Sing	30	flat	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = w04007021
+# text = Sebbene non decisiva ai fini del conflitto, la vittoria dei francesi nella battaglia di Marengo obbligò gli austriaci ad abbandonare per la seconda volta l'Italia.
+# text_en = Although not a resolver of the conflict, the French victory at the Battle of Marengo forced the Austrians to give Italy up for the second time.
+1	Sebbene	sebbene	SCONJ	IN	_	3	mark	_	_
+2	non	non	ADV	RB	Polarity=Neg	3	advmod	_	_
+3	decisiva	decisivo	ADJ	JJ	Gender=Fem|Number=Sing	21	advcl	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	IN	_	6	case	_	_
+5	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	fini	fine	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	IN	_	9	case	_	_
+8	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	conflitto	conflitto	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	3	punct	_	_
+11	la	il	DET	DT	Gender=Fem|Number=Sing	12	det	_	_
+12	vittoria	vittoria	NOUN	NN	Gender=Fem|Number=Sing	21	nsubj	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	IN	_	15	case	_	_
+14	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	francesi	francese	PROPN	NN	Gender=Masc|Number=Plur	12	nmod	_	_
+16-17	nella	_	_	_	_	_	_	_	_
+16	in	in	ADP	IN	_	18	case	_	_
+17	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	battaglia	battaglia	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
+19	di	di	ADP	IN	_	20	case	_	_
+20	Marengo	Marengo	PROPN	NNP	Gender=Fem|Number=Sing	18	nmod	_	_
+21	obbligò	obbligare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+22	gli	il	DET	DT	Gender=Masc|Number=Plur	23	det	_	_
+23	austriaci	austriaco	PROPN	NN	Gender=Masc|Number=Plur	21	obj	_	_
+24	ad	ad	ADP	IN	_	25	mark	_	_
+25	abbandonare	abbandonare	VERB	VB	Voice=Act	21	xcomp	_	_
+26	per	per	ADP	IN	_	29	case	_	_
+27	la	il	DET	DT	Gender=Fem|Number=Sing	29	det	_	_
+28	seconda	secondo	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	_
+29	volta	volta	NOUN	NN	Gender=Fem|Number=Sing	25	obl	_	_
+30	l'	il	DET	DT	Gender=Fem|Number=Sing	31	det	_	SpaceAfter=No
+31	Italia	Italia	PROPN	NNP	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	21	punct	_	_
+
+# sent_id = w04007037
+# text = Il blocco della flotta di Villeneuve comportò l'abbandono del piano di invasione delle isole britanniche, anche perché nuovi sviluppi stavano avendo luogo sul continente.
+# text_en = The blockage of Villeneuve's fleet resulted in giving up the invasion plan of the British Isles, also because new developments were taking place in the continent.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	blocco	blocco	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	IN	_	5	case	_	_
+4	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	flotta	flotta	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
+6	di	di	ADP	IN	_	7	case	_	_
+7	Villeneuve	Villeneuve	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
+8	comportò	comportare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+9	l'	il	DET	DT	Gender=Masc|Number=Sing	10	det	_	SpaceAfter=No
+10	abbandono	abbandono	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	IN	_	13	case	_	_
+12	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	piano	piano	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
+14	di	di	ADP	IN	_	15	case	_	_
+15	invasione	invasione	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
+16-17	delle	_	_	_	_	_	_	_	_
+16	di	di	ADP	IN	_	18	case	_	_
+17	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	isole	isola	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
+19	britanniche	britannico	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	Proper=True|SpaceAfter=No
+20	,	,	PUNCT	,	_	8	punct	_	_
+21	anche	anche	ADV	RB	_	26	advmod	_	_
+22	perché	perché	SCONJ	IN	_	26	mark	_	_
+23	nuovi	nuovo	ADJ	JJ	Gender=Masc|Number=Plur	24	amod	_	_
+24	sviluppi	sviluppo	NOUN	NN	Gender=Masc|Number=Plur	26	nsubj	_	_
+25	stavano	stare	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	26	aux	_	_
+26	avendo	avere	VERB	VBG	Voice=Act	8	advcl	_	_
+27	luogo	luogo	NOUN	NN	Gender=Masc|Number=Sing	26	obj	_	_
+28-29	sul	_	_	_	_	_	_	_	_
+28	su	su	ADP	IN	_	30	case	_	_
+29	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	continente	continente	NOUN	NN	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w04007049
+# text = Napoleone confidava che il netto successo di Austerlitz potesse portare ad un trattato di pace generale, ma le sue speranze rimasero ben presto deluse: il nuovo primo ministro britannico lord Grenville rifiutò ogni accordo, e lo stesso fece lo zar Alessandro.
+# text_en = Napoleon was confident that the clear success of Austerlitz could lead to a general peace treaty, but his hopes were soon dashed: the new British Prime Minister Lord Grenville refused any agreement, and so did Tsar Alexander.
+1	Napoleone	Napoleone	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	confidava	confidare	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+3	che	che	SCONJ	IN	_	10	mark	_	_
+4	il	il	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	netto	netto	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+6	successo	successo	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
+7	di	di	ADP	IN	_	8	case	_	_
+8	Austerlitz	Austerlitz	PROPN	NNP	Gender=Fem|Number=Sing	6	nmod	_	_
+9	potesse	potere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	_
+10	portare	portare	VERB	VB	Voice=Act	2	ccomp	_	_
+11	ad	ad	ADP	IN	_	13	case	_	_
+12	un	uno	DET	DT	Gender=Masc|Number=Sing	13	det	_	_
+13	trattato	trattato	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
+14	di	di	ADP	IN	_	15	case	_	_
+15	pace	pace	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
+16	generale	generale	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	2	punct	_	_
+18	ma	ma	CCONJ	CC	_	22	cc	_	_
+19	le	il	DET	DT	Gender=Fem|Number=Plur	21	det	_	_
+20	sue	suo	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	21	det:poss	_	_
+21	speranze	speranza	NOUN	NN	Gender=Fem|Number=Plur	22	nsubj	_	_
+22	rimasero	rimanere	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|Voice=Act	2	conj	_	_
+23	ben	bene	ADV	RB	_	24	advmod	_	_
+24	presto	presto	ADV	RB	_	25	advmod	_	_
+25	deluse	deluso	ADJ	JJ	Gender=Fem|Number=Plur	22	xcomp	_	SpaceAfter=No
+26	:	:	PUNCT	:	_	22	punct	_	_
+27	il	il	DET	DT	Gender=Masc|Number=Sing	30	det	_	_
+28	nuovo	nuovo	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
+29	primo	primo	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
+30	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	34	nsubj	_	_
+31	britannico	britannico	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	Proper=True
+32	lord	lord	PROPN	NN	Gender=Masc|Number=Sing	30	nmod	_	_
+33	Grenville	Grenville	PROPN	NNP	Gender=Masc|Number=Sing	32	flat	_	_
+34	rifiutò	rifiutare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	22	parataxis	_	_
+35	ogni	ogni	DET	DT	Gender=Masc|Number=Sing	36	det	_	_
+36	accordo	accordo	NOUN	NN	Gender=Masc|Number=Sing	34	obj	_	SpaceAfter=No
+37	,	,	PUNCT	,	_	34	punct	_	_
+38	e	e	CCONJ	CC	_	41	cc	_	_
+39	lo	lo	DET	DT	Gender=Masc|Number=Sing	40	det	_	_
+40	stesso	stesso	NOUN	NN	Gender=Masc|Number=Sing	41	obj	_	_
+41	fece	fare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	34	conj	_	_
+42	lo	il	DET	DT	Gender=Masc|Number=Sing	43	det	_	_
+43	zar	zar	NOUN	NN	Gender=Masc|Number=Sing	41	nsubj	_	_
+44	Alessandro	Alessandro	PROPN	NNP	Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	.	_	2	punct	_	_
+
+# newdoc id = w04008
+# sent_id = w04008006
+# text = Per quanto riguarda la pratica religiosa, Fiorello viene educato nella Chiesa episcopale e rimarrà membro della Chiesa protestante per tutta la vita.
+# text_en = With regards to religious practices, Fiorello was educated within the Episcopal Church, and remained a member of the Protestant Church throughout his life.
+1	Per	per	ADP	IN	_	3	mark	_	_
+2	quanto	quanto	PRON	WP	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	riguarda	riguardare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	advcl	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	pratica	pratica	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
+6	religiosa	religioso	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	Fiorello	Fiorello	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+9	viene	venire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	10	aux:pass	_	_
+10	educato	educare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+11-12	nella	_	_	_	_	_	_	_	_
+11	in	in	ADP	IN	_	13	case	_	_
+12	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Chiesa	Chiesa	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+14	episcopale	episcopale	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	rimarrà	rimanere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	10	conj	_	_
+17	membro	membro	NOUN	NN	Gender=Masc|Number=Sing	16	xcomp	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	Chiesa	Chiesa	PROPN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
+21	protestante	protestante	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
+22	per	per	ADP	IN	_	25	case	_	_
+23	tutta	tutto	ADJ	JJ	Gender=Fem|Number=Sing	25	amod	_	_
+24	la	il	DET	DT	Gender=Fem|Number=Sing	25	det	_	_
+25	vita	vita	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	.	_	10	punct	_	_
+
+# newdoc id = w04009
+# sent_id = w04009042
+# text = L'uomo gli dice che è in arrivo una guerra tra i due universi, come lui e Walter avevano predetto, e che è per questo motivo che Olivia, insieme ad altri, fu addestrata da bambina.
+# text_en = The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.
+1	L'	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	SpaceAfter=No
+2	uomo	uomo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	gli	gli	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	iobj	_	_
+4	dice	dire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+5	che	che	SCONJ	IN	_	8	mark	_	_
+6	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	arrivo	arrivo	NOUN	NN	Gender=Masc|Number=Sing	4	ccomp	_	_
+9	una	uno	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+10	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	tra	tra	ADP	IN	_	14	case	_	_
+12	i	il	DET	DT	Gender=Masc|Number=Plur	14	det	_	_
+13	due	due	NUM	CD	_	14	nummod	_	_
+14	universi	universo	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	21	punct	_	_
+16	come	come	SCONJ	IN	_	21	mark	_	_
+17	lui	lui	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obj	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	Walter	Walter	PROPN	NNP	Gender=Masc|Number=Sing	17	conj	_	_
+20	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	21	aux	_	_
+21	predetto	predire	VERB	VBN	Number=Sing|Tense=Past	8	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	21	punct	_	_
+23	e	e	CCONJ	CC	_	28	cc	_	_
+24	che	che	SCONJ	IN	_	28	mark	_	_
+25	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	cop	_	_
+26	per	per	ADP	IN	_	28	case	_	_
+27	questo	questo	DET	DT	Gender=Masc|Number=Sing	28	det	_	_
+28	motivo	motivo	NOUN	NN	Gender=Masc|Number=Sing	8	conj	_	_
+29	che	che	SCONJ	IN	_	37	mark	_	_
+30	Olivia	Olivia	PROPN	NNP	Gender=Fem|Number=Sing	37	nsubj:pass	_	SpaceAfter=No
+31	,	,	PUNCT	,	_	34	punct	_	_
+32	insieme	insieme	ADV	RB	_	34	case	_	_
+33	ad	ad	ADP	IN	_	32	fixed	_	_
+34	altri	altro	NOUN	NN	Gender=Masc|Number=Plur	37	obl	_	SpaceAfter=No
+35	,	,	PUNCT	,	_	34	punct	_	_
+36	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	37	aux:pass	_	_
+37	addestrata	addestrare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	28	ccomp	_	_
+38	da	da	ADP	IN	_	39	case	_	_
+39	bambina	bambino	NOUN	NN	Gender=Fem|Number=Sing	37	obl	_	SpaceAfter=No
+40	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w04010
+# sent_id = w04010027
+# text = Entrambi allievi di Goffredo Petrassi, Ennio Morricone e Bruno Nicolai si incontrano al conservatorio di Santa Cecilia.
+# text_en = Both students of Goffredo Petrassi, Ennio Morricone and Bruno Nicolai met at the Santa (Saint) Cecelia conservatory.
+1	Entrambi	entrambi	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
+2	allievi	allievo	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	Goffredo	Goffredo	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
+5	Petrassi	Petrassi	PROPN	NNP	Gender=Masc|Number=Sing	4	flat	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	Ennio	Ennio	PROPN	NNP	Gender=Masc|Number=Sing	4	conj	_	_
+8	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	7	flat	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	Bruno	Bruno	PROPN	NNP	Gender=Masc|Number=Sing	4	conj	_	_
+11	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	_
+12	si	si	PRON	SE	Number=Plur|Person=3	13	expl	_	_
+13	incontrano	incontrare	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	IN	_	16	case	_	_
+15	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	conservatorio	conservatorio	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
+17	di	di	ADP	IN	_	18	case	_	_
+18	Santa	Santa	PROPN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
+19	Cecilia	Cecilia	PROPN	NNP	Gender=Fem|Number=Sing	18	flat	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = w04010028
+# text = Tra loro nasce un lungo rapporto professionale e di amicizia che dura per anni.
+# text_en = Between them bloomed a long professional and amicable relationship that lasted for years.
+1	Tra	tra	ADP	IN	_	2	case	_	_
+2	loro	loro	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3	3	obl	_	_
+3	nasce	nascere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	un	uno	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	lungo	lungo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+6	rapporto	rapporto	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	professionale	professionale	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	di	di	ADP	IN	_	10	case	_	_
+10	amicizia	amicizia	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
+11	che	che	PRON	WP	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	dura	durare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
+13	per	per	ADP	IN	_	14	case	_	_
+14	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w04010029
+# text = Nicolai collabora a diverse colonne sonore di Morricone come Metti una sera a cena, alcune delle quali scritte a quattro mani.
+# text_en = Nicolai collaborates on various cinematic scores by Morricone as Metti, one night at dinner; some of them were written by both together.
+1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	collabora	collaborare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+3	a	a	ADP	IN	_	5	case	_	_
+4	diverse	diverso	DET	DT	Gender=Fem|Number=Plur	5	det	_	_
+5	colonne	colonna	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
+6	sonore	sonoro	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
+7	di	di	ADP	IN	_	8	case	_	_
+8	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
+9	come	come	ADP	IN	_	10	case	_	_
+10	Metti	Metti	VERB	VBC	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	5	nmod	_	Proper=True
+11	una	uno	DET	DT	Gender=Fem|Number=Sing	12	det	_	Proper=True
+12	sera	sera	PROPN	NN	Gender=Fem|Number=Sing	10	obj	_	_
+13	a	a	ADP	IN	_	14	case	_	Proper=True
+14	cena	cena	PROPN	NN	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	5	punct	_	_
+16	alcune	alcuno	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+17-18	delle	_	_	_	_	_	_	_	_
+17	di	di	ADP	IN	_	19	case	_	_
+18	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	quali	quale	PRON	WP	Gender=Fem|Number=Plur	16	nmod	_	_
+20	scritte	scrivere	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|Voice=Pass	16	acl	_	_
+21	a	a	ADP	IN	_	23	case	_	_
+22	quattro	quattro	NUM	CD	_	23	nummod	_	_
+23	mani	mano	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w04010030
+# text = Tuttavia l'amicizia tra i due s'incrina a causa di alcune collaborazioni non ufficiali che fanno nascere controversie legali.
+# text_en = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
+1	Tuttavia	tuttavia	ADV	RB	_	8	advmod	_	_
+2	l'	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	SpaceAfter=No
+3	amicizia	amicizia	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
+4	tra	tra	ADP	IN	_	6	case	_	_
+5	i	il	DET	DT	Gender=Masc|Number=Plur	6	det	_	_
+6	due	due	NUM	CD	_	3	nmod	_	_
+7	s'	si	PRON	SE	Number=Sing|Person=3	8	expl	_	SpaceAfter=No
+8	incrina	incrinare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+9	a	a	ADP	IN	_	13	case	_	_
+10	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	9	fixed	_	_
+11	di	di	ADP	IN	_	9	fixed	_	_
+12	alcune	alcuno	DET	DT	Gender=Fem|Number=Plur	13	det	_	_
+13	collaborazioni	collaborazione	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
+14	non	non	ADV	RB	Polarity=Neg	15	advmod	_	_
+15	ufficiali	ufficiale	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
+16	che	che	PRON	WP	Gender=Fem|Number=Plur	17	nsubj	_	_
+17	fanno	fare	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	_
+18	nascere	nascere	VERB	VB	Voice=Act	17	ccomp	_	_
+19	controversie	controversia	NOUN	NN	Gender=Fem|Number=Plur	18	obj	_	_
+20	legali	legale	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = w04010031
+# text = Nel corso delle molteplici collaborazioni, non è certo chi dei due abbia ideato certe soluzioni stilistiche negli arrangiamenti che in seguito hanno caratterizzato lo stile di entrambi gli artisti.
+# text_en = During their various collaborations, it is not clear who between the two conceived of some stylistic solutions in the arrangements that later on characterised both artists' style.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	corso	corso	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	IN	_	7	case	_	_
+5	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	molteplici	molteplice	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
+7	collaborazioni	collaborazione	NOUN	NN	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	non	non	ADV	RB	Polarity=Neg	11	advmod	_	_
+10	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	_
+11	certo	certo	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+12	chi	chi	PRON	WP	Gender=Masc|Number=Sing	17	nsubj	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	IN	_	15	case	_	_
+14	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	due	due	NUM	CD	_	12	nmod	_	_
+16	abbia	avere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	aux	_	_
+17	ideato	ideare	VERB	VBN	Tense=Past	11	csubj	_	_
+18	certe	certo	DET	DT	Gender=Fem|Number=Plur	19	det	_	_
+19	soluzioni	soluzione	NOUN	NN	Gender=Fem|Number=Plur	17	obj	_	_
+20	stilistiche	stilistico	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	_
+21-22	negli	_	_	_	_	_	_	_	_
+21	in	in	ADP	IN	_	23	case	_	_
+22	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	arrangiamenti	arrangiamento	NOUN	NN	Gender=Masc|Number=Plur	19	nmod	_	_
+24	che	che	PRON	WP	Gender=Masc|Number=Plur	28	nsubj	_	_
+25	in	in	ADP	IN	_	26	case	_	_
+26	seguito	seguito	NOUN	NN	Gender=Masc|Number=Sing	28	obl	_	_
+27	hanno	avere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	28	aux	_	_
+28	caratterizzato	caratterizzare	VERB	VBN	Tense=Past	19	acl:relcl	_	_
+29	lo	il	DET	DT	Gender=Masc|Number=Sing	30	det	_	_
+30	stile	stile	NOUN	NN	Gender=Masc|Number=Sing	28	obj	_	_
+31	di	di	ADP	IN	_	34	case	_	_
+32	entrambi	entrambi	ADJ	JJ	Gender=Masc|Number=Plur	34	amod	_	_
+33	gli	il	DET	DT	Gender=Masc|Number=Plur	34	det	_	_
+34	artisti	artista	NOUN	NN	Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	.	_	11	punct	_	_
+
+# newdoc id = w05001
+# sent_id = w05001026
+# text = Nel XX secolo, tra il 1904 e il 1914, Antonio Gaudí attuò una ristrutturazione che durò 10 anni.
+# text_en = In the 20th century, between 1904 and 1914, Antonio Gaudí brought about a reform that lasted ten years.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	4	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	XX	XX	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+4	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	tra	tra	ADP	IN	_	8	case	_	_
+7	il	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+8	1904	1904	NUM	CD	_	15	obl	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	il	il	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+11	1914	1914	NUM	CD	_	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	8	punct	_	_
+13	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	Gaudí	Gaudí	PROPN	NNP	Gender=Masc|Number=Sing	13	flat	_	_
+15	attuò	attuare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+16	una	uno	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+17	ristrutturazione	ristrutturazione	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	_
+18	che	che	PRON	WP	Gender=Fem|Number=Sing	19	nsubj	_	_
+19	durò	durare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	17	acl:relcl	_	_
+20	10	10	NUM	CD	_	21	nummod	_	_
+21	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	15	punct	_	_
+
+# sent_id = w05001036
+# text = Ha tre cappelle parallele all'abside e svariate cappelle laterali tra i contrafforti.
+# text_en = It has three parallel chapels at the apse and many lateral chapels between the buttresses.
+1	Ha	avere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+2	tre	tre	NUM	CD	_	3	nummod	_	_
+3	cappelle	cappella	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
+4	parallele	parallelo	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
+5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No
+5	a	a	ADP	IN	_	7	case	_	_
+6	l'	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	abside	abside	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	svariate	svariato	DET	DT	Gender=Fem|Number=Plur	10	det	_	_
+10	cappelle	cappella	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
+11	laterali	laterale	ADJ	JJ	Gender=Fem|Number=Plur	10	amod	_	_
+12	tra	tra	ADP	IN	_	14	case	_	_
+13	i	il	DET	DT	Gender=Masc|Number=Plur	14	det	_	_
+14	contrafforti	contrafforte	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = w05001045
+# text = La tradizione vuole che il tema venne selezionato intenzionalmente a causa del grande numero di ebrei convertiti che vivevano a Palma.
+# text_en = Tradition has it that the theme was selected intentionally because of the great number of converted Jews who lived in Palma.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	tradizione	tradizione	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vuole	volere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	che	che	SCONJ	IN	_	8	mark	_	_
+5	il	il	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+6	tema	tema	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+7	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	8	aux:pass	_	_
+8	selezionato	selezionato	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	3	ccomp	_	_
+9	intenzionalmente	intenzionalmente	ADV	RB	_	8	advmod	_	_
+10	a	a	ADP	IN	_	14	case	_	_
+11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	10	fixed	_	_
+12	del	di	ADP	INDT	Gender=Masc|Number=Sing	10	fixed	_	_
+13	grande	grande	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
+14	numero	numero	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+15	di	di	ADP	IN	_	16	case	_	_
+16	ebrei	ebreo	PROPN	NN	Gender=Masc|Number=Plur	14	nmod	_	_
+17	convertiti	convertire	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
+18	che	che	PRON	WP	Gender=Masc|Number=Plur	19	nsubj	_	_
+19	vivevano	vivere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	16	acl:relcl	_	_
+20	a	a	ADP	IN	_	21	case	_	_
+21	Palma	Palma	PROPN	NNP	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w05002
+# sent_id = w05002014
+# text = Prima che si formassero le Ande, il limite occidentale del Sud America era già stato sito di diverse orogenesi.
+# text_en = Before the Andes were formed, the western margin of South America had already been the site of several orogenies.
+1	Prima	prima	ADV	RB	_	4	mark	_	_
+2	che	che	SCONJ	IN	_	1	fixed	_	_
+3	si	si	PRON	SE	Number=Plur|Person=3	4	expl	_	_
+4	formassero	formare	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|Voice=Act	18	advcl	_	_
+5	le	il	DET	DT	Gender=Fem|Number=Plur	6	det	_	_
+6	Ande	Ande	PROPN	NNP	Gender=Fem|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	il	il	DET	DT	Gender=Masc|Number=Sing	9	det	_	_
+9	limite	limite	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
+10	occidentale	occidentale	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	IN	_	13	case	_	_
+12	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Sud	Sud	PROPN	NNP	Gender=Masc|Number=Sing	9	nmod	_	_
+14	America	America	PROPN	NNP	Gender=Masc|Number=Sing	13	flat	_	_
+15	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	_
+16	già	già	ADV	RB	_	18	advmod	_	_
+17	stato	essere	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past	18	cop	_	_
+18	sito	sito	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+19	di	di	ADP	IN	_	21	case	_	_
+20	diverse	diverso	DET	DT	Gender=Fem|Number=Plur	21	det	_	_
+21	orogenesi	orogenesi	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	18	punct	_	_
+
+# sent_id = w05002032
+# text = Le Ande centrali appartengo alle cosiddette 'Ande di tipo andino' che si formarono dalla subduzione della crosta oceanica.
+# text_en = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	Ande	Ande	PROPN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	centrali	centrale	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	Proper=True
+4	appartengo	appartenere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	IN	_	9	case	_	_
+6	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+7	cosiddette	cosiddetto	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
+8	'	'	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Ande	Ande	PROPN	NNP	Gender=Fem|Number=Plur	4	obl	_	_
+10	di	di	ADP	IN	_	11	case	_	_
+11	tipo	tipo	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
+12	andino	andino	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	'	'	PUNCT	''	_	9	punct	_	_
+14	che	che	PRON	WP	Gender=Fem|Number=Sing	16	nsubj	_	_
+15	si	si	PRON	SE	Number=Plur|Person=3	16	expl	_	_
+16	formarono	formare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	_
+17-18	dalla	_	_	_	_	_	_	_	_
+17	da	da	ADP	IN	_	19	case	_	_
+18	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	subduzione	subduzione	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	IN	_	22	case	_	_
+21	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	crosta	crosta	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
+23	oceanica	oceanico	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w05003
+# sent_id = w05003012
+# text = Tuttavia, la sospensione dei rapporti con Linares e l'interruzione della linea progressista provocarono la Giustificazione della Rivoluzione che lo detronizzò nel 1879.
+# text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
+1	Tuttavia	tuttavia	ADV	RB	_	17	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	la	il	DET	DT	Gender=Fem|Number=Sing	4	det	_	_
+4	sospensione	sospensione	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	IN	_	7	case	_	_
+6	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	rapporti	rapporto	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
+8	con	con	ADP	IN	_	9	case	_	_
+9	Linares	Linares	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	l'	il	DET	DT	Gender=Fem|Number=Sing	12	det	_	SpaceAfter=No
+12	interruzione	interruzione	NOUN	NN	Gender=Fem|Number=Sing	4	conj	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	IN	_	15	case	_	_
+14	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	linea	linea	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
+16	progressista	progressista	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
+17	provocarono	provocare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+18	la	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+19	Giustificazione	Giustificazione	PROPN	NN	Gender=Fem|Number=Sing	17	obj	_	_
+20-21	della	_	_	_	_	_	_	_	Proper=True
+20	di	di	ADP	IN	_	22	case	_	_
+21	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	Rivoluzione	Rivoluzione	PROPN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
+23	che	che	PRON	WP	Gender=Fem|Number=Sing	25	nsubj	_	_
+24	lo	lo	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	obj	_	_
+25	detronizzò	detronizzare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	19	acl:relcl	_	_
+26-27	nel	_	_	_	_	_	_	_	_
+26	in	in	ADP	IN	_	28	case	_	_
+27	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	1879	1879	NUM	CD	_	25	obl	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	17	punct	_	_
+
+# sent_id = w05003050
+# text = Durante la sua amministrazione venne approvato il diritto di voto alle donne, i partiti politici vennero legalizzati, tutti gli esiliati furono autorizzati a tornare e prigionieri politici vennero liberati.
+# text_en = Under his administration, the female vote was approved, political parties were legalised, all of the exiled were allowed to return and the remaining political prisoners were freed.
+1	Durante	durante	ADP	IN	_	4	case	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	4	det	_	_
+3	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det:poss	_	_
+4	amministrazione	amministrazione	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
+5	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	aux:pass	_	_
+6	approvato	approvare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+7	il	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+8	diritto	diritto	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+9	di	di	ADP	IN	_	10	case	_	_
+10	voto	voto	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
+11-12	alle	_	_	_	_	_	_	_	_
+11	a	a	ADP	IN	_	13	case	_	_
+12	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	donne	donna	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	6	punct	_	_
+15	i	il	DET	DT	Gender=Masc|Number=Plur	16	det	_	_
+16	partiti	partito	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj:pass	_	_
+17	politici	politico	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
+18	vennero	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	19	aux:pass	_	_
+19	legalizzati	legalizzare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past	6	conj	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	25	punct	_	_
+21	tutti	tutto	ADJ	JJ	Gender=Masc|Number=Plur	23	amod	_	_
+22	gli	il	DET	DT	Gender=Masc|Number=Plur	23	det	_	_
+23	esiliati	esiliato	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj:pass	_	_
+24	furono	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	25	aux:pass	_	_
+25	autorizzati	autorizzare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past	6	conj	_	_
+26	a	a	ADP	IN	_	27	mark	_	_
+27	tornare	tornare	VERB	VB	Voice=Act	25	xcomp	_	_
+28	e	e	CCONJ	CC	_	32	cc	_	_
+29	prigionieri	prigioniero	NOUN	NN	Gender=Masc|Number=Plur	32	nsubj	_	_
+30	politici	politico	ADJ	JJ	Gender=Masc|Number=Plur	29	amod	_	_
+31	vennero	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	32	aux:pass	_	_
+32	liberati	liberare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past	6	conj	_	SpaceAfter=No
+33	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = w05003119
+# text = Il collasso e l'intervento in dozzine di banche portò a una fuga di capitali, causando la bancarotta di questo business.
+# text_en = The collapse of and intervention in dozens of banks lead to a flight of capital, causing businesses to go bankrupt.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	collasso	collasso	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	l'	il	DET	DT	Gender=Masc|Number=Sing	5	det	_	SpaceAfter=No
+5	intervento	intervento	NOUN	NN	Gender=Masc|Number=Sing	2	conj	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	dozzine	dozzina	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+8	di	di	ADP	IN	_	9	case	_	_
+9	banche	banca	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
+10	portò	portare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+11	a	a	ADP	IN	_	13	case	_	_
+12	una	uno	DET	DT	Gender=Fem|Number=Sing	13	det	_	_
+13	fuga	fuga	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+14	di	di	ADP	IN	_	15	case	_	_
+15	capitali	capitali	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	10	punct	_	_
+17	causando	causare	VERB	VBG	Voice=Act	10	advcl	_	_
+18	la	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+19	bancarotta	bancarotta	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
+20	di	di	ADP	IN	_	22	case	_	_
+21	questo	questo	DET	DT	Gender=Masc|Number=Sing	22	det	_	_
+22	business	business	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	10	punct	_	_
+
+# newdoc id = w05004
+# sent_id = w05004031
+# text = È la parte che va da questo secondo confine a quello esterno, la linea immaginaria che collega il faro di Punta del Este a quello di Punta Rasa.
+# text_en = It is the portion from this second boundary up to the outer boundary, the imaginary line that connects the lighthouse landmark at Punta del Este to the lighthouse landmark at Punta Rasa.
+1	È	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	PRON	WP	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	va	andare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	acl:relcl	_	_
+6	da	da	ADP	IN	_	9	case	_	_
+7	questo	questo	DET	DT	Gender=Masc|Number=Sing	9	det	_	_
+8	secondo	secondo	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+9	confine	confine	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
+10	a	a	ADP	IN	_	11	case	_	_
+11	quello	quello	PRON	PRP	Gender=Masc|Number=Sing|PronType=Dem	9	nmod	_	_
+12	esterno	esterno	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	3	punct	_	_
+14	la	il	DET	DT	Gender=Fem|Number=Sing	15	det	_	_
+15	linea	linea	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
+16	immaginaria	immaginario	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
+17	che	che	PRON	WP	Gender=Fem|Number=Sing	18	nsubj	_	_
+18	collega	collegare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	acl:relcl	_	_
+19	il	il	DET	DT	Gender=Masc|Number=Sing	20	det	_	_
+20	faro	faro	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
+21	di	di	ADP	IN	_	22	case	_	_
+22	Punta	Punta	PROPN	NN	Gender=Fem|Number=Sing	20	nmod	_	_
+23-24	del	_	_	_	_	_	_	_	Proper=True
+23	di	di	ADP	IN	_	25	case	_	_
+24	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	Este	Este	PROPN	NNP	Gender=Masc|Number=Sing	22	nmod	_	_
+26	a	a	ADP	IN	_	27	case	_	_
+27	quello	quello	PRON	PRP	Gender=Masc|Number=Sing|PronType=Dem	18	obl	_	_
+28	di	di	ADP	IN	_	29	case	_	_
+29	Punta	Punta	PROPN	NN	Gender=Fem|Number=Sing	27	nmod	_	_
+30	Rasa	Rasa	PROPN	NNP	Gender=Fem|Number=Sing	29	flat	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w05005
+# sent_id = w05005083
+# text = Le cose iniziarono a cambiare nell'ottobre 1777 quando le forze inglesi, sotto il comando del Generale John Burgoyne si arresero a Saratoga, nella parte settentrionale dello stato di New York.
+# text_en = Things started to change in October 1777 when British forces under the command of General John Burgoyne surrendered in Saratoga in the north of the state of New York.
+1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	cose	cosa	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	iniziarono	iniziare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	a	a	ADP	IN	_	5	mark	_	_
+5	cambiare	cambiare	VERB	VB	Voice=Act	3	xcomp	_	_
+6-7	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	in	in	ADP	IN	_	8	case	_	_
+7	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ottobre	ottobre	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
+9	1777	1777	NUM	CD	_	8	flat	_	_
+10	quando	quando	SCONJ	IN	_	24	mark	_	_
+11	le	il	DET	DT	Gender=Fem|Number=Plur	12	det	_	_
+12	forze	forza	NOUN	NN	Gender=Fem|Number=Plur	24	nsubj	_	_
+13	inglesi	inglese	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	Proper=True|SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	sotto	sotto	ADP	IN	_	17	case	_	_
+16	il	il	DET	DT	Gender=Masc|Number=Sing	17	det	_	_
+17	comando	comando	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	IN	_	20	case	_	_
+19	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Generale	Generale	PROPN	NN	Gender=Masc|Number=Sing	17	nmod	_	_
+21	John	John	PROPN	NNP	Gender=Masc|Number=Sing	20	nmod	_	_
+22	Burgoyne	Burgoyne	PROPN	NNP	Gender=Masc|Number=Sing	21	flat	_	_
+23	si	si	PRON	SE	Number=Plur|Person=3	24	expl	_	_
+24	arresero	arrendere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	3	advcl	_	_
+25	a	a	ADP	IN	_	26	case	_	_
+26	Saratoga	Saratoga	PROPN	NNP	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	24	punct	_	_
+28-29	nella	_	_	_	_	_	_	_	_
+28	in	in	ADP	IN	_	30	case	_	_
+29	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	24	obl	_	_
+31	settentrionale	settentrionale	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	_
+32-33	dello	_	_	_	_	_	_	_	_
+32	di	di	ADP	IN	_	34	case	_	_
+33	lo	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	stato	stato	NOUN	NN	Gender=Masc|Number=Sing	30	nmod	_	_
+35	di	di	ADP	IN	_	36	case	_	_
+36	New	New	PROPN	NNP	Gender=Fem|Number=Sing	34	nmod	_	_
+37	York	York	PROPN	NNP	Gender=Fem|Number=Sing	36	flat	_	SpaceAfter=No
+38	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05005084
+# text = Fu il colpo di grazia e l'incoraggiamento di cui i coloni avevano bisogno per raggiungere l'indipendenza.
+# text_en = This was the coup de grâce and encouragement the settlers needed to get their independence.
+1	Fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	_
+2	il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+3	colpo	colpo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	IN	_	5	case	_	_
+5	grazia	grazia	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	l'	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	SpaceAfter=No
+8	incoraggiamento	incoraggiamento	NOUN	NN	Gender=Masc|Number=Sing	3	conj	_	_
+9	di	di	ADP	IN	_	10	case	_	_
+10	cui	cui	PRON	WP	Gender=Masc|Number=Sing	13	obl	_	_
+11	i	il	DET	DT	Gender=Masc|Number=Plur	12	det	_	_
+12	coloni	colono	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
+13	avevano	avere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	_
+14	bisogno	bisogno	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
+15	per	per	ADP	IN	_	16	mark	_	_
+16	raggiungere	raggiungere	VERB	VB	Voice=Act	13	xcomp	_	_
+17	l'	il	DET	DT	Gender=Fem|Number=Sing	18	det	_	SpaceAfter=No
+18	indipendenza	indipendenza	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05005085
+# text = Gli indiani arrivarono dal Canada, guidati da Joseph Brant; supportarono gli inglesi perché i colonizzatori stavano espropriando sempre più parti delle loro terre.
+# text_en = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
+1	Gli	il	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
+2	indiani	indiano	PROPN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	arrivarono	arrivare	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	IN	_	6	case	_	_
+5	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Canada	Canada	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	guidati	guidare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|Voice=Pass	3	advcl	_	_
+9	da	da	ADP	IN	_	10	case	_	_
+10	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	8	obl	_	_
+11	Brant	Brant	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	SpaceAfter=No
+12	;	;	PUNCT	:	_	3	punct	_	_
+13	supportarono	supportare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	3	parataxis	_	_
+14	gli	il	DET	DT	Gender=Masc|Number=Plur	15	det	_	_
+15	inglesi	inglese	PROPN	NN	Gender=Masc|Number=Plur	13	obj	_	_
+16	perché	perché	SCONJ	IN	_	20	mark	_	_
+17	i	il	DET	DT	Gender=Masc|Number=Plur	18	det	_	_
+18	colonizzatori	colonizzatori	NOUN	NN	Gender=Masc|Number=Plur	20	nsubj	_	_
+19	stavano	stare	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	20	aux	_	_
+20	espropriando	espropriare	VERB	VBG	Voice=Act	13	advcl	_	_
+21	sempre	sempre	ADV	RB	_	22	advmod	_	_
+22	più	più	ADV	RBR	_	23	advmod	_	_
+23	parti	parte	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	_
+24-25	delle	_	_	_	_	_	_	_	_
+24	di	di	ADP	IN	_	27	case	_	_
+25	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
+26	loro	loro	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|PronType=Prs	27	det:poss	_	_
+27	terre	terra	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05005086
+# text = La spedizione venne guidata dal Generale Joseph Burgoyne che aveva intenzione di raggiungere Albany.
+# text_en = The expedition was led by General Joseph Burgoyne who intended to reach Albany.
+1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	spedizione	spedizione	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	guidata	guidare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	IN	_	7	case	_	_
+6	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Generale	Generale	PROPN	NN	Gender=Masc|Number=Sing	4	obl	_	_
+8	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	_
+9	Burgoyne	Burgoyne	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	_
+10	che	che	PRON	WP	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	aveva	avere	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	7	acl:relcl	_	_
+12	intenzione	intenzione	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
+13	di	di	ADP	IN	_	14	mark	_	_
+14	raggiungere	raggiungere	VERB	VB	Voice=Act	12	acl	_	_
+15	Albany	Albany	PROPN	NNP	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = w05005087
+# text = Tuttavia, vennero bloccati e dovettero combattere a Freeman, vicino al fiume Hudson.
+# text_en = However, they were intercepted and had to do battle in Freeman, close to the Hudson River.
+1	Tuttavia	tuttavia	ADV	RB	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	vennero	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+4	bloccati	bloccare	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past	0	root	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	dovettero	dovere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
+7	combattere	combattere	VERB	VB	Voice=Act	4	conj	_	_
+8	a	a	ADP	IN	_	9	case	_	_
+9	Freeman	Freeman	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	_	_
+11	vicino	vicino	ADV	RB	_	13	case	_	_
+12	al	a	ADP	INDT	Gender=Masc|Number=Sing	11	fixed	_	_
+13	fiume	fiume	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
+14	Hudson	Hudson	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	_	_
+
+# newdoc id = w05006
+# sent_id = w05006024
+# text = Lo spagnolo del secolo d'oro o spagnolo della prima età moderna è una variante linguistica che costituisce la transizione dallo spagnolo medioevale a quello moderno.
+# text_en = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
+1	Lo	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	spagnolo	spagnolo	PROPN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	IN	_	5	case	_	_
+4	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	secolo	secolo	PROPN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
+6	d'	di	ADP	IN	_	7	case	_	Proper=True|SpaceAfter=No
+7	oro	oro	PROPN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	spagnolo	spagnolo	PROPN	NN	Gender=Masc|Number=Sing	2	conj	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	IN	_	13	case	_	_
+11	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	prima	primo	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+13	età	età	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
+14	moderna	moderno	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+15	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	cop	_	_
+16	una	uno	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+17	variante	variante	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+18	linguistica	linguistico	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	_
+19	che	che	PRON	WP	Gender=Fem|Number=Sing	20	nsubj	_	_
+20	costituisce	costituire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	acl:relcl	_	_
+21	la	il	DET	DT	Gender=Fem|Number=Sing	22	det	_	_
+22	transizione	transizione	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	_
+23-24	dallo	_	_	_	_	_	_	_	_
+23	da	da	ADP	IN	_	25	case	_	_
+24	lo	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	spagnolo	spagnolo	PROPN	NN	Gender=Masc|Number=Sing	22	nmod	_	_
+26	medioevale	medioevale	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
+27	a	a	ADP	IN	_	28	case	_	_
+28	quello	quello	PRON	PRP	Gender=Masc|Number=Sing|PronType=Dem	25	nmod	_	_
+29	moderno	moderno	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+30	.	.	PUNCT	.	_	17	punct	_	_
+
+# sent_id = w05006058
+# text = D'altra parte, fonti esterne contengono riferimenti alla storia degli ispanofoni, alle loro vicissitudini storiche e all'uso sociale della lingua.
+# text_en = On the other hand, external history contains references to the history of Spanish speakers, their historical vicissitudes and the social use of the language.
+1	D'	di	ADP	IN	_	3	case	_	SpaceAfter=No
+2	altra	altro	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+3	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	fonti	fonte	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
+6	esterne	esterno	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
+7	contengono	contenere	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+8	riferimenti	riferimento	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
+9-10	alla	_	_	_	_	_	_	_	_
+9	a	a	ADP	IN	_	11	case	_	_
+10	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	storia	storia	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
+12-13	degli	_	_	_	_	_	_	_	_
+12	di	di	ADP	IN	_	14	case	_	_
+13	gli	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	ispanofoni	ispanofoni	PROPN	NN	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	11	punct	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	IN	_	19	case	_	_
+17	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	loro	loro	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|PronType=Prs	19	det:poss	_	_
+19	vicissitudini	vicissitudine	NOUN	NN	Gender=Fem|Number=Plur	11	conj	_	_
+20	storiche	storico	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	_
+21	e	e	CCONJ	CC	_	24	cc	_	_
+22-23	all'	_	_	_	_	_	_	_	SpaceAfter=No
+22	a	a	ADP	IN	_	24	case	_	_
+23	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	uso	uso	NOUN	NN	Gender=Masc|Number=Sing	11	conj	_	_
+25	sociale	sociale	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	_
+26-27	della	_	_	_	_	_	_	_	_
+26	di	di	ADP	IN	_	28	case	_	_
+27	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	lingua	lingua	NOUN	NN	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	7	punct	_	_
+
+# newdoc id = w05007
+# sent_id = w05007004
+# text = Tuttavia, se la legge inglese fosse stata accettata, le figlie di Luigi X, Filippo V e Carlo IV avrebbero avuto più pretese al trono rispetto a loro zia Isabella di Francia.
+# text_en = Nonetheless, if the English law had been accepted, the daughters of Luis X, Felipe V and Carlos IV would have had more of a claim to the throne, above their aunt Isabella of France.
+1	Tuttavia	tuttavia	ADV	RB	_	23	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	se	se	SCONJ	IN	_	9	mark	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	legge	legge	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+6	inglese	inglese	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
+7	fosse	essere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	9	aux	_	_
+8	stata	essere	AUX	VBN	Gender=Fem|Number=Sing|Tense=Past	9	aux:pass	_	_
+9	accettata	accettare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	23	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	le	il	DET	DT	Gender=Fem|Number=Plur	12	det	_	_
+12	figlie	figlio	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj	_	_
+13	di	di	ADP	IN	_	14	case	_	_
+14	Luigi	Luigi	PROPN	NNP	Gender=Masc|Number=Sing	12	nmod	_	_
+15	X	X	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	Proper=True|SpaceAfter=No
+16	,	,	PUNCT	,	_	12	punct	_	_
+17	Filippo	Filippo	PROPN	NNP	Gender=Masc|Number=Sing	12	conj	_	_
+18	V	V	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	Carlo	Carlo	PROPN	NNP	Gender=Masc|Number=Sing	12	conj	_	_
+21	IV	IV	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	Proper=True
+22	avrebbero	avere	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|Voice=Act	23	aux	_	_
+23	avuto	avere	VERB	VBN	Tense=Past	0	root	_	_
+24	più	più	ADV	RBR	_	25	advmod	_	_
+25	pretese	pretendere	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
+26-27	al	_	_	_	_	_	_	_	_
+26	a	a	ADP	IN	_	28	case	_	_
+27	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	trono	trono	NOUN	NN	Gender=Masc|Number=Sing	25	nmod	_	_
+29	rispetto	rispetto	ADP	IN	_	32	case	_	_
+30	a	a	ADP	IN	_	29	fixed	_	_
+31	loro	loro	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|PronType=Prs	32	det:poss	_	_
+32	zia	zio	NOUN	NN	Gender=Fem|Number=Sing	25	nmod	_	_
+33	Isabella	Isabella	PROPN	NNP	Gender=Fem|Number=Sing	32	nmod	_	_
+34	di	di	ADP	IN	_	35	case	_	Proper=True
+35	Francia	Francia	PROPN	NNP	Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	.	_	23	punct	_	_
+
+# sent_id = w05007080
+# text = I tentativi di pace terminarono nella primavera del 1415 ed Enrico decise di mettere in atto il suo piano: l'invasione dell'intero Regno di Francia.
+# text_en = The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.
+1	I	il	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
+2	tentativi	tentativo	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	di	di	ADP	IN	_	4	case	_	_
+4	pace	pace	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
+5	terminarono	terminare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	primavera	primavera	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	IN	_	11	case	_	_
+10	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	1415	1415	NUM	CD	_	8	nmod	_	_
+12	ed	e	CCONJ	CC	_	14	cc	_	_
+13	Enrico	Enrico	PROPN	NNP	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	decise	decidere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	_
+15	di	di	ADP	IN	_	16	mark	_	_
+16	mettere	mettere	VERB	VB	Voice=Act	14	xcomp	_	_
+17	in	in	ADP	IN	_	18	case	_	_
+18	atto	atto	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
+19	il	il	DET	DT	Gender=Masc|Number=Sing	21	det	_	_
+20	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	21	det:poss	_	_
+21	piano	piano	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+22	:	:	PUNCT	:	_	21	punct	_	_
+23	l'	il	DET	DT	Gender=Fem|Number=Sing	24	det	_	SpaceAfter=No
+24	invasione	invasione	NOUN	NN	Gender=Fem|Number=Sing	21	appos	_	_
+25-26	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+25	di	di	ADP	IN	_	28	case	_	_
+26	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+27	intero	intero	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
+28	Regno	Regno	PROPN	NN	Gender=Masc|Number=Sing	24	nmod	_	_
+29	di	di	ADP	IN	_	30	case	_	Proper=True
+30	Francia	Francia	PROPN	NNP	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	5	punct	_	_
+
+# newdoc id = w05008
+# sent_id = w05008107
+# text = Ha anche discusso la federalizzazione della città di Buenos Aires, l'estensione di un codice commerciale e la nomina di nuovi generali.
+# text_en = He also discussed the federalization of the City of Buenos Aires, the extension of the commercial code and the appointment of new generals to the army.
+1	Ha	avere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	_
+2	anche	anche	ADV	RB	_	3	advmod	_	_
+3	discusso	discutere	VERB	VBN	Tense=Past	0	root	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	federalizzazione	federalizzazione	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	IN	_	8	case	_	_
+7	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	città	città	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
+9	di	di	ADP	IN	_	10	case	_	_
+10	Buenos	Buenos	PROPN	NNP	Gender=Fem|Number=Sing	8	nmod	_	_
+11	Aires	Aires	PROPN	NNP	Gender=Fem|Number=Sing	10	flat	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	5	punct	_	_
+13	l'	il	DET	DT	Gender=Fem|Number=Sing	14	det	_	SpaceAfter=No
+14	estensione	estensione	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
+15	di	di	ADP	IN	_	17	case	_	_
+16	un	uno	DET	DT	Gender=Masc|Number=Sing	17	det	_	_
+17	codice	codice	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
+18	commerciale	commerciale	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	la	il	DET	DT	Gender=Fem|Number=Sing	21	det	_	_
+21	nomina	nomina	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
+22	di	di	ADP	IN	_	24	case	_	_
+23	nuovi	nuovo	ADJ	JJ	Gender=Masc|Number=Plur	24	amod	_	_
+24	generali	generale	NOUN	NN	Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = w05009
+# sent_id = w05009044
+# text = Nel 1976, si incontrò con Kiki Dee, un amico che lavorava con la sua etichetta discografica The Rocket Record Company, per registrare quello che sarebbe stato un altro successo degno di nota: "Don't go Breaking My Heart".
+# text_en = In 1976 he met with a friend who worked with his record label The Rocket Record Company, Kiki Dee, to record what would be another remarkable success for him: "Don't Go Breaking My Heart".
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	1976	1976	NUM	CD	_	6	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	si	si	PRON	SE	Number=Sing|Person=3	6	expl	_	_
+6	incontrò	incontrare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+7	con	con	ADP	IN	_	8	case	_	_
+8	Kiki	Kiki	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	_
+9	Dee	Dee	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	8	punct	_	_
+11	un	uno	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+12	amico	amico	NOUN	NN	Gender=Masc|Number=Sing	8	appos	_	_
+13	che	che	PRON	WP	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	lavorava	lavorare	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	12	acl:relcl	_	_
+15	con	con	ADP	IN	_	18	case	_	_
+16	la	il	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
+17	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	18	det:poss	_	_
+18	etichetta	etichetta	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
+19	discografica	discografico	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
+20	The	The	PROPN	NNP	Gender=Fem|Number=Sing	18	nmod	_	_
+21	Rocket	Rocket	PROPN	NNP	Gender=Fem|Number=Sing	20	flat	_	_
+22	Record	Record	PROPN	NN	Gender=Fem|Number=Sing	20	flat	_	_
+23	Company	Company	PROPN	NNP	Gender=Fem|Number=Sing	20	flat	_	SpaceAfter=No
+24	,	,	PUNCT	,	_	14	punct	_	_
+25	per	per	ADP	IN	_	26	mark	_	_
+26	registrare	registrare	VERB	VB	Voice=Act	14	xcomp	_	_
+27	quello	quello	PRON	PRP	Gender=Masc|Number=Sing|PronType=Dem	26	obj	_	_
+28	che	che	PRON	WP	Gender=Masc|Number=Sing	33	nsubj	_	_
+29	sarebbe	essere	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	33	aux	_	_
+30	stato	essere	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past	33	cop	_	_
+31	un	uno	DET	DT	Gender=Masc|Number=Sing	33	det	_	_
+32	altro	altro	ADJ	JJ	Gender=Masc|Number=Sing	33	amod	_	_
+33	successo	successo	NOUN	NN	Gender=Masc|Number=Sing	27	acl:relcl	_	_
+34	degno	degno	ADJ	JJ	Gender=Masc|Number=Sing	33	amod	_	_
+35	di	di	ADP	IN	_	36	case	_	_
+36	nota	nota	NOUN	NN	Gender=Fem|Number=Sing	34	obl	_	SpaceAfter=No
+37	:	:	PUNCT	:	_	33	punct	_	_
+38	"	"	PUNCT	``	_	33	punct	_	SpaceAfter=No
+39	Don'	Don'	PROPN	NNP	Gender=Fem|Number=Sing	33	appos	_	SpaceAfter=No
+40	t	t	PROPN	NNP	Gender=Fem|Number=Sing	39	flat	_	_
+41	go	go	PROPN	NNP	Gender=Fem|Number=Sing	39	flat	_	_
+42	Breaking	Breaking	PROPN	NNP	Gender=Fem|Number=Sing	39	flat	_	_
+43	My	My	PROPN	NNP	Gender=Fem|Number=Sing	39	flat	_	_
+44	Heart	Heart	PROPN	NNP	Gender=Fem|Number=Sing	39	flat	_	SpaceAfter=No
+45	"	"	PUNCT	''	_	39	punct	_	SpaceAfter=No
+46	.	.	PUNCT	.	_	6	punct	_	_
+
+# newdoc id = w05010
+# sent_id = w05010023
+# text = Pompeo prese il controllo di due legioni a Capua e cominciò ad arruolare soldati illegalmente, un atto che, come si poteva prevedere, trasse vantaggio dei cesariani che erano a suo favore.
+# text_en = Pompey took command of two legions in Capua and began to raise levies illegally, an act that, as was predictable, took advantage of the Caesarians who were in his favor.
+1	Pompeo	Pompeo	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	prese	prendere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+3	il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+4	controllo	controllo	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	IN	_	7	case	_	_
+6	due	due	NUM	CD	_	7	nummod	_	_
+7	legioni	legione	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
+8	a	a	ADP	IN	_	9	case	_	_
+9	Capua	Capua	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	cominciò	cominciare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	2	conj	_	_
+12	ad	ad	ADP	IN	_	13	mark	_	_
+13	arruolare	arruolare	VERB	VB	Voice=Act	11	xcomp	_	_
+14	soldati	soldato	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
+15	illegalmente	illegalmente	ADV	RB	_	13	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	11	punct	_	_
+17	un	uno	DET	DT	Gender=Masc|Number=Sing	18	det	_	_
+18	atto	atto	NOUN	NN	Gender=Masc|Number=Sing	11	appos	_	_
+19	che	che	PRON	WP	Gender=Masc|Number=Sing	26	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	24	punct	_	_
+21	come	come	ADP	IN	_	24	mark	_	_
+22	si	si	PRON	SE	Number=Sing|Person=3	24	expl	_	_
+23	poteva	potere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	_
+24	prevedere	prevedere	VERB	VB	Voice=Act	26	advcl	_	SpaceAfter=No
+25	,	,	PUNCT	,	_	24	punct	_	_
+26	trasse	trarre	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	18	acl:relcl	_	_
+27	vantaggio	vantaggio	NOUN	NN	Gender=Masc|Number=Sing	26	obj	_	_
+28-29	dei	_	_	_	_	_	_	_	_
+28	di	di	ADP	IN	_	30	case	_	_
+29	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	cesariani	cesariani	NOUN	NN	Gender=Masc|Number=Plur	27	nmod	_	_
+31	che	che	PRON	WP	Gender=Masc|Number=Plur	35	nsubj	_	_
+32	erano	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	35	cop	_	_
+33	a	a	ADP	IN	_	35	case	_	_
+34	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	35	det:poss	_	_
+35	favore	favore	NOUN	NN	Gender=Masc|Number=Sing	30	acl:relcl	_	SpaceAfter=No
+36	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = w05010024
+# text = Cesare venne informato personalmente delle azioni di Pompeo da Curio, che a quel tempo aveva finito il suo mandato.
+# text_en = César was personally informed of Pompey's actions by Curio, who at that time had finished his term in office.
+1	Cesare	Cesare	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
+3	informato	informare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+4	personalmente	personalmente	ADV	RB	_	3	advmod	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	IN	_	7	case	_	_
+6	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	azioni	azione	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
+8	di	di	ADP	IN	_	9	case	_	_
+9	Pompeo	Pompeo	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	_
+10	da	da	ADP	IN	_	11	case	_	_
+11	Curio	Curio	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	che	che	PRON	WP	Gender=Masc|Number=Sing	18	nsubj	_	_
+14	a	a	ADP	IN	_	16	case	_	_
+15	quel	quello	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+16	tempo	tempo	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
+17	aveva	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	_
+18	finito	finire	VERB	VBN	Tense=Past	11	acl:relcl	_	_
+19	il	il	DET	DT	Gender=Masc|Number=Sing	21	det	_	_
+20	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	21	det:poss	_	_
+21	mandato	mandato	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = w05010025
+# text = Nel frattempo, il suo posto nel Tribuno venne occupato da Marco Antonio, che rivestì la posizione fino a Dicembre.
+# text_en = Meanwhile, his place in tribune was occupied by Marco Antonio, who held the position until December.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_
+2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	il	il	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	7	det:poss	_	_
+7	posto	posto	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Tribuno	Tribuno	PROPN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
+11	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	12	aux:pass	_	_
+12	occupato	occupare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
+13	da	da	ADP	IN	_	14	case	_	_
+14	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	12	obl	_	_
+15	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	14	flat	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	14	punct	_	_
+17	che	che	PRON	WP	Gender=Masc|Number=Sing	18	nsubj	_	_
+18	rivestì	rivestire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	14	acl:relcl	_	_
+19	la	il	DET	DT	Gender=Fem|Number=Sing	20	det	_	_
+20	posizione	posizione	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	_
+21	fino	fino	ADP	IN	_	23	case	_	_
+22	a	a	ADP	IN	_	21	fixed	_	_
+23	Dicembre	Dicembre	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	12	punct	_	_
+
+# sent_id = w05010026
+# text = Ma quando il Senato gli rispose definitivamente proibendogli di competere per il consolato e dandogli l'opzione di ritirare le truppe o di diventare nemico pubblico, capì che, qualsiasi alternativa avesse scelto, si sarebbe consegnato disarmato nelle mani dei suoi nemici politici.
+# text_en = But when the Senate answered him definitively by prohibiting him from competing at the consolate and giving him the option of either withdrawing his troops or becoming a public enemy, he understood that, whatever alternative he chose, he would surrender unarmed into the hands of his political enemies.
+1	Ma	ma	CCONJ	CC	_	30	cc	_	_
+2	quando	quando	SCONJ	IN	_	6	mark	_	_
+3	il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+4	Senato	Senato	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	gli	gli	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	iobj	_	_
+6	rispose	rispondere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	30	advcl	_	_
+7	definitivamente	definitivo	ADV	RB	_	6	advmod	_	_
+8-9	proibendogli	_	_	_	_	_	_	_	_
+8	proibendo	proibire	VERB	VBG	Voice=Act	6	advcl	_	_
+9	gli	gli	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	iobj	_	_
+10	di	di	ADP	IN	_	11	mark	_	_
+11	competere	competere	VERB	VB	Voice=Act	8	xcomp	_	_
+12	per	per	ADP	IN	_	14	case	_	_
+13	il	il	DET	DT	Gender=Masc|Number=Sing	14	det	_	_
+14	consolato	consolato	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16-17	dandogli	_	_	_	_	_	_	_	_
+16	dando	dare	VERB	VBG	Voice=Act	8	conj	_	_
+17	gli	gli	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	iobj	_	_
+18	l'	il	DET	DT	Gender=Fem|Number=Sing	19	det	_	SpaceAfter=No
+19	opzione	opzione	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	_
+20	di	di	ADP	IN	_	21	case	_	_
+21	ritirare	ritirare	VERB	VB	Voice=Act	19	acl	_	_
+22	le	il	DET	DT	Gender=Fem|Number=Plur	23	det	_	_
+23	truppe	truppa	NOUN	NN	Gender=Fem|Number=Plur	21	obj	_	_
+24	o	o	CCONJ	CC	_	26	cc	_	_
+25	di	di	ADP	IN	_	26	mark	_	_
+26	diventare	diventare	VERB	VB	Voice=Act	21	conj	_	_
+27	nemico	nemico	NOUN	NN	Gender=Masc|Number=Sing	26	xcomp	_	_
+28	pubblico	pubblico	ADJ	JJ	Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No
+29	,	,	PUNCT	,	_	6	punct	_	_
+30	capì	capire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+31	che	che	SCONJ	IN	_	40	mark	_	SpaceAfter=No
+32	,	,	PUNCT	,	_	36	punct	_	_
+33	qualsiasi	qualsiasi	DET	DT	Gender=Fem|Number=Sing	34	det	_	_
+34	alternativa	alternativa	NOUN	NN	Gender=Fem|Number=Sing	36	nsubj	_	_
+35	avesse	avere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	36	aux	_	_
+36	scelto	scegliere	VERB	VBN	Tense=Past	40	advcl	_	SpaceAfter=No
+37	,	,	PUNCT	,	_	36	punct	_	_
+38	si	si	PRON	SE	Number=Sing|Person=3	40	expl	_	_
+39	sarebbe	essere	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	40	aux	_	_
+40	consegnato	consegnare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	30	ccomp	_	_
+41	disarmato	disarmare	ADJ	JJ	Gender=Masc|Number=Sing	40	xcomp	_	_
+42-43	nelle	_	_	_	_	_	_	_	_
+42	in	in	ADP	IN	_	44	case	_	_
+43	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	44	det	_	_
+44	mani	mano	NOUN	NN	Gender=Fem|Number=Plur	40	obl	_	_
+45-46	dei	_	_	_	_	_	_	_	_
+45	di	di	ADP	IN	_	48	case	_	_
+46	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	48	det	_	_
+47	suoi	suo	PRON	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	48	det:poss	_	_
+48	nemici	nemico	NOUN	NN	Gender=Masc|Number=Plur	44	nmod	_	_
+49	politici	politico	ADJ	JJ	Gender=Masc|Number=Plur	48	amod	_	SpaceAfter=No
+50	.	.	PUNCT	.	_	30	punct	_	_
+
+# sent_id = w05010027
+# text = Il 1 gennaio 49 d.C., Marco Antonio lesse una dichiarazione di Cesare nella quale il proconsole si dichiarò amico della pace.
+# text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
+1	Il	il	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+2	1	1	NUM	CD	_	9	obl	_	_
+3	gennaio	gennaio	NOUN	NN	Gender=Masc|Number=Sing	2	flat	_	_
+4	49	49	NUM	CD	_	2	flat	_	_
+5	d.C.	d.C.	SYM	SYM	_	2	flat	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	2	punct	_	_
+7	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	7	flat	_	_
+9	lesse	leggere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+10	una	uno	DET	DT	Gender=Fem|Number=Sing	11	det	_	_
+11	dichiarazione	dichiarazione	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
+12	di	di	ADP	IN	_	13	case	_	_
+13	Cesare	Cesare	PROPN	NNP	Gender=Masc|Number=Sing	11	nmod	_	_
+14-15	nella	_	_	_	_	_	_	_	_
+14	in	in	ADP	IN	_	16	case	_	_
+15	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	quale	quale	PRON	WP	Gender=Fem|Number=Sing	20	obl	_	_
+17	il	il	DET	DT	Gender=Masc|Number=Sing	18	det	_	_
+18	proconsole	proconsole	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
+19	si	si	PRON	SE	Number=Sing|Person=3	20	expl	_	_
+20	dichiarò	dichiarare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl:relcl	_	_
+21	amico	amico	NOUN	NN	Gender=Masc|Number=Sing	20	xcomp	_	_
+22-23	della	_	_	_	_	_	_	_	_
+22	di	di	ADP	IN	_	24	case	_	_
+23	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	pace	pace	NOUN	NN	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	9	punct	_	_
+
